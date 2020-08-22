@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Stream Ecology Lab at Universidade Federal do Rio Grande - FURG in Brazil"
-subtitle = ""
+title = "Welcome to the Stream Ecology Lab"
+subtitle = "at Universidade Federal do Rio Grande - FURG, Brazil"
 
 [design]
 
@@ -36,6 +36,6 @@ text_color_light = true
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["150px", "0", "150px", "0"]
+padding = ["100px", "0", "100px", "0"]
 
 +++
