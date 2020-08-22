@@ -31,4 +31,11 @@ gradient_end = "SkyBlue"
 #image_position = "center" # Options include left, center (default), or right. 
 #image_parallax = true # Use a fun parallax-like fixed background effect? true/false
 
+text_color_light = false
+
+[design.spacing]
+
+#Customize the section spacing. Order is top, right, bottom, left.
+padding = ["40px", "0", "40px", "0"]
+
 +++
