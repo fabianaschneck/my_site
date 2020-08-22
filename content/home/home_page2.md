@@ -5,8 +5,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
+Title="" 
 subtitle = ""
+
+[content]
+"We are particularly interested in biodiversity patterns and the processes that generate them"
+
+{{< figure library="true" src="logo_completo.png" title="" >}}
 
 [design]
 
@@ -20,7 +25,7 @@ columns = "2"
 #Choose a light or dark text color by setting text_color_light.
 #Any HTML color name or Hex value is valid.
 #Background color.
-#color = "#607CA0"
+color = "White"
 #Background gradient.
 #gradient_start = "DeepBlue"
 #gradient_end = "SkyBlue"
