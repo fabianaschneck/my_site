@@ -20,7 +20,7 @@ columns = "1"
 #Choose a light or dark text color by setting text_color_light.
 #Any HTML color name or Hex value is valid.
 #Background color.
-color = "navy"
+color = "SteelBlue"
 #Background gradient.
 #gradient_start = "DeepBlue"
 #gradient_end = "SkyBlue"
@@ -36,6 +36,6 @@ text_color_light = true
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["100px", "0", "100px", "0"]
+padding = ["150px", "0", "150px", "0"]
 
 +++
