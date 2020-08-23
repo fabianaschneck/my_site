@@ -20,12 +20,12 @@ columns = "1"
 #Choose a light or dark text color by setting text_color_light.
 #Any HTML color name or Hex value is valid.
 #Background color.
-color = "#607CA0"
+#color = "#607CA0" azul igual ao logo
 #Background gradient.
 #gradient_start = "DeepBlue"
 #gradient_end = "SkyBlue"
 #Background image.
-#image = "ausentes1.jpg" # Name of image in static/media/. 
+image = "ausentes7pb.jpg" # Name of image in static/media/. 
 #image_darken = 0.7 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque. 
 #image_size = "cover" # Options are cover (default), contain, or actual size. 
 #image_position = "center" # Options include left, center (default), or right. 
