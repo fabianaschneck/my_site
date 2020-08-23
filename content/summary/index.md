@@ -1,16 +1,14 @@
 +++
-# widget.
-widget = "publication"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Blank widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: "aa"
-  focal_point: "center"
-  preview_only: false
+[header]
+
+image = "header/logo.png" 
+caption = "Image credit"
 
 
 [design]
