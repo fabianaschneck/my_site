@@ -8,7 +8,8 @@ weight = 20  # Order that this section will appear.
 Title = "" 
 subtitle = ""
 
-![AA](logo.png)
+[image]:
+![aa](logo.png)
 
 [design]
 
