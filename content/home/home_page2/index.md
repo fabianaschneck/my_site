@@ -43,7 +43,5 @@ padding = ["150px", "0", "150px", "0"]
 +++
 Inserir texto
 
-[image]
-image = "logo_completo.png" 
-
+{{< figure src="logo.png" title="aa" >}}
 
