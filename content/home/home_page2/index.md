@@ -41,7 +41,10 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
-Inserir texto
 
 {{< figure src="logo.png" title="aa" >}}
+![stream team](logo.png)
+
+Inserir texto
+
 
