@@ -9,7 +9,7 @@ Title = ""
 subtitle = ""
 
 [image]
-![aa](logo.png)
+image = ![aa](logo.png)
 
 [design]
 
