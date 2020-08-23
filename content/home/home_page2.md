@@ -13,10 +13,18 @@ subtitle = ""
 
 #Choose how many columns the section has. Valid values: 1 or 2.
 columns = "2"
-image = "logo_completo.png" # Name of image in static/media/. 
-image_size = "contain" # Options are cover (default), contain, or actual size. 
-image_position = "left" # Options include left, center (default), or right. 
-#image_parallax = true # Use a fun parallax-like fixed background effect? true/false
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  
 
 [design.background]
 
