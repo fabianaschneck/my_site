@@ -41,7 +41,7 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
-{{< figure library="true" src="logo.png" title="A caption" >}}
+{{< figure library="true" src="logo.jpg" title="A caption" >}}
 
 Inserir texto
 
