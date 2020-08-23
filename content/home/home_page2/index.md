@@ -8,10 +8,6 @@ weight = 20  # Order that this section will appear.
 Title = "" 
 subtitle = ""
 
-[content]
-image = "media/logo.png"
-caption= "aa"
-
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,6 +25,9 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["150px", "0", "150px", "0"]
 
+[header]
+image = "logo.png"
+caption= "aa"
 +++
 
 Inserir texto
