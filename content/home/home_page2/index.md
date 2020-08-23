@@ -9,11 +9,10 @@ Title = ""
 subtitle = ""
 
 
-[[item]]
+[content]
   title = ""
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
-
   overlay_img = "logo.png  
 
 
