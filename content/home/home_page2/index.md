@@ -5,8 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-[content]
-{{< figure src = "logo.png" title = "aa" >}}
+<figure>
+  <img src="/logo.png">
+</figure>
 
 [design]
 
