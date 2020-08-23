@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 Title ="" 
 subtitle = ""
 
-image = "logo_completo.png"
+
     
 [design]
 
@@ -41,3 +41,5 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
+
+image = "logo_completo.png"
