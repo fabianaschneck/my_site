@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 Title ="" 
 subtitle = ""
 
-
+{{< figure src="logo_completo.png" title="" >}}
     
 [design]
 
@@ -48,5 +48,5 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
-{{< figure src="logo_completo.png" title="" >}}
+
 Inserir texto
