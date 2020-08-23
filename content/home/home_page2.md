@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 
 [header]
 
-image = "header/logo.png" 
+image = "static/media/header/logo.png" 
 caption = "Image credit"
 
 
@@ -21,7 +21,7 @@ columns = "2"
 [design.background]
 
 #Background color.
-#color = "White"
+color = "White"
 
 
 [design.spacing]
@@ -30,4 +30,5 @@ columns = "2"
 padding = ["150px", "0", "150px", "0"]
 
 +++
+
 Inserir texto
