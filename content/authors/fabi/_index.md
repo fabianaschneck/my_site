@@ -10,15 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-#role: Professor of Artificial Intelligence
+role: Professor of Ecology
 
 # Organizations/Affiliations
 #organizations:
-#- name: Stanford University
-#  url: ""
+- name: Universidade Federal do Rio Grande - FURG
+  url: "https://www.furg.br/"
+  url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+#bio: 
 
 
 
@@ -46,12 +47,12 @@ social:
 #   link: http://lattes.cnpq.br/0976627401327631
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fabiana.schneck@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Principal Investigators
+#user_groups:
+#- Principal Investigators
 ---
 
-aaaaaaaaa
+Inserir texto
