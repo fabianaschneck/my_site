@@ -8,9 +8,6 @@ weight = 20  # Order that this section will appear.
 Title="" 
 subtitle = ""
 
-content= "We are particularly interested in biodiversity patterns and the processes that generate them"
-
-{{< figure library="true" src="logo_completo.png" title="" >}}
 
 [design]
 
