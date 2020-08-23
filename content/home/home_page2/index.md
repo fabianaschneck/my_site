@@ -25,7 +25,7 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["150px", "0", "150px", "0"]
 
-[image]: logo.png
+![AA](logo.png)
 
 +++
 
