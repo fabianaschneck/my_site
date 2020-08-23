@@ -5,10 +5,6 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-<figure>
-  <img src="/logo.png">
-</figure>
-
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
@@ -27,6 +23,10 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
+
+<figure>
+  <img src="/logo.png">
+</figure>
 
 Inserir texto
 
