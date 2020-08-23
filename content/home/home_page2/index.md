@@ -11,7 +11,7 @@ subtitle = ""
 
 [content]
 
-image = "logo.png" 
+image = "/logo.png" 
 
 [design]
 
