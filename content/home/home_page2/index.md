@@ -8,7 +8,14 @@ weight = 20  # Order that this section will appear.
 Title = "" 
 subtitle = ""
 
-{{< figure library="true" src="logo.png" title="A caption" >}}
+
+[[item]]
+  title = ""
+  content = ""
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  overlay_img = "logo.png  
+
 
 [design]
 
@@ -41,9 +48,8 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["150px", "0", "150px", "0"]
 
-
-
 +++
+
 Inserir texto
 
 
