@@ -10,11 +10,8 @@ subtitle = ""
 
 
 [content]
-  title = ""
-  content = ""
-  align = "left"  # Choose `center`, `left`, or `right`.
-  overlay_img = "logo.png"  
 
+{{< figure src="logo.png" title="aa" >}}
 
 [design]
 
