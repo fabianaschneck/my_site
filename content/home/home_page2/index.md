@@ -9,7 +9,7 @@ Title = ""
 subtitle = ""
 
 [image]
-{{< figure src="logo.png" title="aa" >}}
+image = "logo.png" 
 
 [design]
 
