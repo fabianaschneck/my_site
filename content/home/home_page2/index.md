@@ -11,7 +11,7 @@ subtitle = ""
 
 [content]
 
-{{< figure src="logo.png" title="aa" >}}
+image = "logo.png" 
 
 [design]
 
