@@ -9,6 +9,7 @@ Title =""
 subtitle = ""
 
 images:
+-"featured.png"
   placement: 1
   caption: ""
   focal_point: "Center"
