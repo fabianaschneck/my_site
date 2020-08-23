@@ -13,7 +13,7 @@ subtitle = ""
   title = ""
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
-  overlay_img = "logo.png  
+  overlay_img = "logo.png"  
 
 
 [design]
