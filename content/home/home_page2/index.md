@@ -1,4 +1,4 @@
-{{< figure src="/media/logo.png" title="aa" >}}
+{{< figure src="logo.png" title="aa" >}}
 
 
 Inserir texto
