@@ -13,7 +13,7 @@ superuser: true
 "role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
+#organizations:
 - name: ""
   url: ""
 
