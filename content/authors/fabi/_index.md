@@ -13,7 +13,7 @@ superuser: true
 role: Professor of Ecology
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: Universidade Federal do Rio Grande - FURG
   url: "https://www.furg.br/"
   url: "https://ppgbac.furg.br/"
