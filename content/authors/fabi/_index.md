@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 #organizations:
-- name: Stanford University
-  url: ""
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 
