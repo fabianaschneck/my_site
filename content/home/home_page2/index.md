@@ -15,6 +15,13 @@ subtitle = ""
 #Choose how many columns the section has. Valid values: 1 or 2.
 columns = "2"
 
+[[item]]
+  title = ""
+  content = ""
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  overlay_img = "static/media/logo_completo.png"  
+  
 [design.background]
 
 #Apply a background color, gradient, or image.
@@ -42,4 +49,4 @@ padding = ["150px", "0", "150px", "0"]
 
 +++
 
-image = "logo_completo.png"
+Inserir texto
