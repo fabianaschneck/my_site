@@ -24,7 +24,7 @@ padding = ["150px", "0", "150px", "0"]
 
 
 [image]
-  image = "logo.png"
+  caption = "aa"
   
 +++
 
