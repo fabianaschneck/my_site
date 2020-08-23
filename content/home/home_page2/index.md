@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 
 [[resources]]
   name = "header"
-  src = "logo.png"
+  src = "/media/logo.png"
   
   
 [design]
