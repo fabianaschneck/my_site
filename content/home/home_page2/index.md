@@ -8,8 +8,6 @@ weight = 20  # Order that this section will appear.
 Title = "" 
 subtitle = ""
 
-[image]
-image = "logo_completo.png" 
 
 [design]
 
@@ -45,5 +43,7 @@ padding = ["150px", "0", "150px", "0"]
 +++
 Inserir texto
 
+[image]
+image = "logo_completo.png" 
 
 
