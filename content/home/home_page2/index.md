@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 Title = "" 
 subtitle = ""
 
-[header]
+[content]
 image = "media/logo.png"
 caption= "aa"
 
@@ -27,12 +27,9 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["500px", "0", "500px", "0"]
+padding = ["150px", "0", "150px", "0"]
 
 +++
-[header]
-image = "media/logo.png"
-caption= "aa"
 
 Inserir texto
 
