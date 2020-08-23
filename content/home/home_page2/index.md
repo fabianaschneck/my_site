@@ -9,9 +9,6 @@ Title =""
 subtitle = ""
 
 image = "media/logo_completo.png"
-  placement: 1
-  focal_point: "Center"
-
     
 [design]
 
