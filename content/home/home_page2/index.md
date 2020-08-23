@@ -9,7 +9,7 @@ Title = ""
 subtitle = ""
 
 [header]
-image = "logo.png"
+image = "media/logo.png"
 caption= "aa"
 
 [design]
