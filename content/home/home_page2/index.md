@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 Title ="" 
 subtitle = ""
 
-image = "media/logo_completo.png"
+image = "logo_completo.png"
     
 [design]
 
