@@ -25,9 +25,8 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["150px", "0", "150px", "0"]
 
-[header]
-image = "logo.png"
-caption= "aa"
+[image]: logo.png
+
 +++
 
 Inserir texto
