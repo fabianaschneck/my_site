@@ -8,12 +8,10 @@ weight = 20  # Order that this section will appear.
 Title ="" 
 subtitle = ""
 
-images:
-- "featured.png"
+image = "media/logo_completo.png"
   placement: 1
-  caption: ""
   focal_point: "Center"
-  preview_only: false
+
     
 [design]
 
