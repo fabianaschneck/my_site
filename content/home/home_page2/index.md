@@ -48,5 +48,5 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
-
+{{< figure src="logo_completo.png" title="" >}}
 Inserir texto
