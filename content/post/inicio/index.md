@@ -1,11 +1,6 @@
 ---
 title: ''
 subtitle: ''
-authors:
-- admin
-
-tags:
-- Academic
 
 featured: false
 draft: false
