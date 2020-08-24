@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-![Example image](static/media/logo.png)
+
 
 
 [design]
@@ -26,5 +26,6 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
+![Example image](static/media/logo.png)
 
 Inserir texto
