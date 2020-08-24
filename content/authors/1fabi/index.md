@@ -19,7 +19,7 @@ organizations:
   url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: EEEEEE
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,5 +61,3 @@ email: "fabiana.schneck@gmail.com"
 user_groups:
 - Meet the Team
 ---
-
-Inserir texto
