@@ -5,7 +5,7 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 68  # Order that this section will appear.
 
 title = "Meet the Team"
 subtitle = ""
@@ -47,6 +47,11 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+[design.spacing]
+#Customize the section spacing. Order is top, right, bottom, left. 
+padding = ["180px", "180px", "180px", "180px"]
+
+
 [advanced]
  # Custom CSS. 
  css_style = ""
