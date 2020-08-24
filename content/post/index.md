@@ -16,7 +16,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ""
   focal_point: ""
   preview_only: false
   
@@ -32,4 +32,6 @@ Inserir texto
 aaaa
 ssss
 dddd
+
+hhh
 
