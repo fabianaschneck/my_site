@@ -29,3 +29,6 @@ padding = ["150px", "0", "150px", "0"]
 {{< figure src="static/media/logo.png" title="A caption" >}}
 
 Inserir texto
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
