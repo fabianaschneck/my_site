@@ -11,7 +11,7 @@ weight = 20  # Order that this section will appear.
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
-columns = "1"
+columns = "2"
 
   
 [design.background]
@@ -22,7 +22,7 @@ color = "White"
 # Background image.
   image = "logo.jpg"  # Name of image in `static/media/`.
   image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false # Use a fun parallax-like fixed background effect? true/false
   
 [design.spacing]
@@ -32,9 +32,9 @@ padding = ["180px", "0", "180px", "0"]
 
 
 +++
-Inserir texto
+                                                      Inserir texto
 
-fff
+                                                      fff
 
 
 
