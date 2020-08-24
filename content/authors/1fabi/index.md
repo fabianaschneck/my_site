@@ -19,7 +19,7 @@ organizations:
   url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: SSSSS
+#bio: 
 
 
 
