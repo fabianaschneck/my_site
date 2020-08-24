@@ -25,7 +25,7 @@ subtitle = ""
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,5 +46,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
