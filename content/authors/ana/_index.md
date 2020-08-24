@@ -30,7 +30,7 @@ social:
   link: "mailto:anapaulatavarescosta@gmail.com"
 - icon: orcid
   icon_pack: ai
-  link: ""
+  link: https://orcid.org/0000-0003-1938-1299
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/5655103785290488
