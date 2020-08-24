@@ -20,7 +20,7 @@ columns = "1"
 color = "White"
 
 # Background image.
-  image = "logo.jpg"  # Name of image in `static/media/`.
+  image = "logo_completo.png"  # Name of image in `static/media/`.
   image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "right"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false # Use a fun parallax-like fixed background effect? true/false
