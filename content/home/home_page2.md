@@ -26,6 +26,6 @@ color = "White"
 padding = ["150px", "0", "150px", "0"]
 
 +++
-![Example image](static/media/logo.png)
+{{< figure src="static/media/logo.png" title="A caption" >}}
 
 Inserir texto
