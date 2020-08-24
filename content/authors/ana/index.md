@@ -27,13 +27,10 @@ bio: SSSSS
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:anapaulatavarescosta@gmail.com".
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+  link: "mailto:anapaulatavarescosta@gmail.com".
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-0018-444X
+  link: ""
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/5655103785290488
