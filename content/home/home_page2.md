@@ -5,10 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-[header]
-
-image = "static/media/header/logo.png" 
-caption = "Image credit"
+![Example image](static/media/logo.png)
 
 
 [design]
