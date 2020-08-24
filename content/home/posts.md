@@ -36,7 +36,7 @@ subtitle = ""
 [design.background]
 
 #Background color.
-color = "White"
+#color = "White"
 
 [design.spacing]
 
