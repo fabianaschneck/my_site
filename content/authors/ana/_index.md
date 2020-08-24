@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ana Paula Tavares Costa
+title: Ana Paula T. Costa
 
 # Username (this should match the folder name)
 authors:
@@ -46,5 +46,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Meet the Team
+- Graduate Students
 ---
+
+Inserir texto
