@@ -40,7 +40,7 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0018-444X
-- icon: researchgate
+- icon: researcherid
   icon_pack: ai
   link: 
 - icon: lattes
