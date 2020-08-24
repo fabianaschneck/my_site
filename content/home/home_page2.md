@@ -11,7 +11,7 @@ weight = 20  # Order that this section will appear.
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
-columns = "2"
+columns = "1"
 
   
 [design.background]
@@ -28,7 +28,7 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["180px", "20px", "180px", "20px"]
+padding = ["180px", "50px", "180px", "50px"]
 
 
 +++
