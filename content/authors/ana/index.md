@@ -27,7 +27,7 @@ bio: SSSSS
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:anapaulatavarescosta@gmail.com".
+  link: "mailto:anapaulatavarescosta@gmail.com"
 - icon: orcid
   icon_pack: ai
   link: ""
