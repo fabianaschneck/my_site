@@ -2,7 +2,7 @@
 # Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 
@@ -27,9 +27,6 @@ padding = ["150px", "0", "150px", "0"]
 
 +++
 
-{{< figure library="true" src="logo.png" title="A caption" >}}
-
-Inserir texto
 
 
 
