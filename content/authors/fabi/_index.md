@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Ecology
+role: Professor of Ecology 
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: SSSSS
 
 
 
@@ -36,7 +36,16 @@ social:
   link: https://twitter.com/FabianaSchneck
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.br/citations?user=WgdQd3gAAAAJ&hl=pt-BR
+  link: https://scholar.google.com.br/citations?user=WgdQd3gAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0018-444X
+- icon: researchgate
+  icon_pack: ai
+  link: 
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/0976627401327631
 - icon: github
   icon_pack: fab
   link: https://github.com/fabianaschneck
@@ -44,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: http://lattes.cnpq.br/0976627401327631
+#   link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fabiana.schneck@gmail.com"
