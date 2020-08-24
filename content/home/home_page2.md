@@ -21,18 +21,20 @@ color = "White"
 
 # Background image.
   image = "logo.jpg"  # Name of image in `static/media/`.
-  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "left"  # Options include `left`, `center` (default), or `right`.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "right"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false # Use a fun parallax-like fixed background effect? true/false
   
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["150px", "0", "150px", "0"]
+padding = ["180px", "0", "180px", "0"]
 
 
 +++
-                                                                                  Inserir texto
+Inserir texto
+
+fff
 
 
 
