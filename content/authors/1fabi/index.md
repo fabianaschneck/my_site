@@ -30,7 +30,7 @@ bio: SSSSS
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:fabiana.schneck@gmail.com".
+  link: "mailto:fabiana.schneck@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FabianaSchneck
