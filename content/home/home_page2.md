@@ -2,7 +2,7 @@
 # Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 
@@ -19,13 +19,21 @@ columns = "1"
 #Background color.
 color = "White"
 
-
+# Background image.
+  image = "logo.jpg"  # Name of image in `static/media/`.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "left"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = false # Use a fun parallax-like fixed background effect? true/false
+  
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["150px", "0", "150px", "0"]
 
+
 +++
+Inserir texto
+
 
 
 
