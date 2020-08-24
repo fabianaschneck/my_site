@@ -30,7 +30,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
  
 [design.background]
@@ -51,4 +51,4 @@ padding = ["150px", "0", "150px", "0"]
  css_class = ""
 +++
 
-Inserir texto
+
