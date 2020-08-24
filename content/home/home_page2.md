@@ -21,7 +21,7 @@ color = "White"
 
 # Background image.
   image = "logo.jpg"  # Name of image in `static/media/`.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false # Use a fun parallax-like fixed background effect? true/false
   
@@ -32,7 +32,7 @@ padding = ["150px", "0", "150px", "0"]
 
 
 +++
-Inserir texto
+                                                                                  Inserir texto
 
 
 
