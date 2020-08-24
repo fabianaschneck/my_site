@@ -34,7 +34,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -49,7 +49,7 @@ subtitle = ""
   
 [design.spacing]
 #Customize the section spacing. Order is top, right, bottom, left. 
-padding = ["180px", "180px", "180px", "180px"]
+padding = ["180px", "1000px", "180px", "1000px"]
 
 
 [advanced]
