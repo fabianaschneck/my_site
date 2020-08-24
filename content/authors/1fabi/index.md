@@ -46,9 +46,9 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/0976627401327631
-- icon: github
-  icon_pack: fab
-  link: https://github.com/fabianaschneck
+#- icon: github
+ # icon_pack: fab
+#  link: https://github.com/fabianaschneck
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
