@@ -20,5 +20,9 @@ email_form = 2
 # Netlify form settings.
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
+  
+  [design.background]
+  # Background color.
+   color = "#F0F6F8"
 +++
 
