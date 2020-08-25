@@ -27,22 +27,22 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:fabiana.schneck@gmail.com"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/FabianaSchneck
+  link: "mailto:cassiamartins.ecologia@gmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/cassiaperifec 
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.br/citations?user=WgdQd3gAAAAJ&hl
 - icon: orcid
   icon_pack: ai
-  link: ""
+  link: https://orcid.org/0000-0002-2987-5340
 #- icon: researcherid
  # icon_pack: ai
 #  link: 
 - icon: lattes
   icon_pack: ai
-  link: ""
+  link: http://lattes.cnpq.br/0919178340628891
 #- icon: github
  # icon_pack: fab
 #  link: https://github.com/fabianaschneck
