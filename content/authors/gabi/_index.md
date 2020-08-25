@@ -23,28 +23,28 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: "mailto:fabiana.schneck@gmail.com"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/FabianaSchneck
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:mg.junqueira@hotmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/junqueiragaabi
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.br/citations?user=WgdQd3gAAAAJ&hl
-#- icon: orcid
- # icon_pack: ai
-#  link: https://orcid.org/0000-0002-0018-444X
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6112-765X
 #- icon: researcherid
  # icon_pack: ai
 #  link: 
-#- icon: lattes
-#  icon_pack: ai
-#  link: http://lattes.cnpq.br/0976627401327631
-#- icon: github
- # icon_pack: fab
-#  link: https://github.com/fabianaschneck
-
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/0240464309673413
+- icon: github
+  icon_pack: fab
+  link: https://github.com/junqueiragaabi
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
