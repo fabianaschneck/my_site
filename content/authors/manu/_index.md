@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emanuela Castro
+title: Emanuela de Castro
 
 # Username (this should match the folder name)
 authors:
