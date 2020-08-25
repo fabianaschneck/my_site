@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Images"
-subtitle = "Pictures from field work, lab experiments and our team"
+subtitle = "Pictures from field work, lab experiments and our team in action"
 
 [design.background]
 
