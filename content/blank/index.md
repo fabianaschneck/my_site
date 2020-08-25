@@ -6,7 +6,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 header:
   caption: ""
-  image: "logo.png"
+  image: "logo_completo.png"
 ---
 
 Add your *content* here...
