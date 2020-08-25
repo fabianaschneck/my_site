@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ana Paula T. Costa
+title: Ana Paula Tavares Costa
 
 # Username (this should match the folder name)
 authors:
