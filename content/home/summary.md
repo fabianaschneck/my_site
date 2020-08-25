@@ -1,7 +1,7 @@
 
 
 +++
-# Blank widget.
+# Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
@@ -29,7 +29,7 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["180px", "0", "180px", "0"]
+padding = ["120px", "0", "120px", "0"]
 
 
 # Call to action button (optional).
