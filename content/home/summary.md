@@ -1,8 +1,8 @@
 
 
 +++
-# Blank widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Hero widget.
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -31,7 +31,21 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["180px", "0", "180px", "0"]
 
+# Overlay a color or image (optional).
+#   Deactivate an option by commenting out the line, prefixing it with `#`.
+[header]
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "logo_completo.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
+# Call to action button (optional).
+#   Activate the button by specifying a URL and button label below.
+#   Deactivate by commenting out parameters, prefixing lines with `#`.
+#[cta]
+  #url = ""
+  #label = ""
 +++
 
 Texto
+
+
