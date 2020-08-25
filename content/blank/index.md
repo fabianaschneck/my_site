@@ -1,4 +1,5 @@
 ---
+title: ""
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
