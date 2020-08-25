@@ -4,7 +4,7 @@ title: Celomar Severo Sena
 
 # Username (this should match the folder name)
 authors:
-- ana
+- celomar
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,9 +25,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
- # icon_pack: fas
-#  link: "mailto:fabiana.schneck@gmail.com"
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:celomarssena1994@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/FabianaSchneck
@@ -40,9 +40,9 @@ social:
 #- icon: researcherid
  # icon_pack: ai
 #  link: 
-#- icon: lattes
- # icon_pack: ai
- # link: http://lattes.cnpq.br/0976627401327631
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/1866576921233841
 #- icon: github
  # icon_pack: fab
 #  link: https://github.com/fabianaschneck
