@@ -40,6 +40,6 @@ title = ""
   url = "https://ppgbac.furg.br/"
   icon = "ppgbac_logo"
   
-
++++
 
 
