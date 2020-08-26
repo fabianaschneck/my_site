@@ -28,41 +28,7 @@ publication_types: ["2"]
 publication: "*Aquatic Ecology*"
 publication_short: ""
 
-abstract: Environmental heterogeneity and productivity
-are factors driving beta diversity of freshwater
-communities. Further, characteristics as spatial extent
-and connectivity, as well as land use and cover, can
-determine local biodiversity patterns. We evaluated
-the correlates of within-lake beta diversity of phytoplankton
-communities in 25 coastal shallow lakes in
-southern Brazil. We hypothesize that within-lake beta
-diversity is positively related to environmental heterogeneity,
-productivity, spatial extent and connectivity.
-We also searched for correlates between beta diversity
-and land cover, once the studied lakes are mostly
-surrounded by natural landscapes. We measured beta
-diversity using four dissimilarity coefficients that
-provide a gradient of emphasis on compositional and
-abundance changes. We found that beta diversity
-differed among lakes, indicating changes in both
-species’ composition and abundance, but how it
-correlated with predictors differed depending on how
-beta diversity was measured. Beta diversity based on
-changes in species incidence and in two measures of
-abundance (modified Gower based on log10 and log2)
-was positively related to percentage of wetland cover
-and negatively related to percentage of grassland.
-Further, environmental heterogeneity was related to
-abundance-based (modified Gower log2) beta diversity. Our hypotheses were partly corroborated,
-indicating that factors modulating beta diversity
-patterns are complex and not easy to detect. We show
-that phytoplankton beta diversity in shallow coastal
-lakes is promoted by factors acting at both local and
-landscape scales. Finally, we emphasize that investigating
-beta diversity patterns should thoughtfully
-consider the use of dissimilarity coefficients measuring
-both changes in species composition and
-abundance.
+abstract: Environmental heterogeneity and productivity are factors driving beta diversity of freshwater communities. Further, characteristics as spatial extent and connectivity, as well as land use and cover, can determine local biodiversity patterns. We evaluated the correlates of within-lake beta diversity of phytoplankton communities in 25 coastal shallow lakes in southern Brazil. We hypothesize that within-lake beta diversity is positively related to environmental heterogeneity, productivity, spatial extent and connectivity. We also searched for correlates between beta diversity and land cover, once the studied lakes are mostly surrounded by natural landscapes. We measured beta diversity using four dissimilarity coefficients that provide a gradient of emphasis on compositional and abundance changes. We found that beta diversity differed among lakes, indicating changes in both species’ composition and abundance, but how it correlated with predictors differed depending on how beta diversity was measured. Beta diversity based on changes in species incidence and in two measures of abundance (modified Gower based on log10 and log2) was positively related to percentage of wetland cover and negatively related to percentage of grassland. Further, environmental heterogeneity was related to abundance-based (modified Gower log2) beta diversity. Our hypotheses were partly corroborated, indicating that factors modulating beta diversity patterns are complex and not easy to detect. We show that phytoplankton beta diversity in shallow coastal lakes is promoted by factors acting at both local and landscape scales. Finally, we emphasize that investigating beta diversity patterns should thoughtfully consider the use of dissimilarity coefficients measuring both changes in species composition and abundance.
 
 tags:
 - Source Themes
