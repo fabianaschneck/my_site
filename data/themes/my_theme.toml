@@ -14,7 +14,7 @@ menu_primary = "white"
 menu_text = "#6E6E6E" 
 
 # cor botao ativo no menu (cinza)
-menu_text_active = "#607CA0"
+menu_text_active = "#F5A9BC"
 
 # cor titulo site (quando nao tem logo) preto 
 menu_title = "#2b2b2b"   
