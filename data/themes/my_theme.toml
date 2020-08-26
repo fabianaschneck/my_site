@@ -4,14 +4,14 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary
+# Primary azul escuro para textos com link e menu 
 primary = "#435267"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
+menu_text = "#CD5C5C"
 menu_text_active = "#435267"
-menu_title = "#435267"
+menu_title = "#2b2b2b"   
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
