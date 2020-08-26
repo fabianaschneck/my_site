@@ -8,7 +8,7 @@ light = true
 primary = "#607CA0"
 
 # Menu
-menu_primary = "#A4A4A4""
+menu_primary = "#A4A4A4"
 
 # cor texto dos botoes de menu (cinza)
 menu_text = "#607CA0" 
