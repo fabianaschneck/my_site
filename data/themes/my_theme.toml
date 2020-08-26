@@ -8,15 +8,15 @@ light = true
 primary = "#607CA0"
 
 # Menu
-menu_primary = "#607CA0""
+menu_primary = "#A4A4A4""
 
-#cor texto dos botoes de menu (cinza)
-menu_text = "#34495e" 
+# cor texto dos botoes de menu (cinza)
+menu_text = "#607CA0" 
 
-#cor botao ativo no menu
-menu_text_active = "#607CA0"
+# cor botao ativo no menu
+menu_text_active = "#A4A4A4"
 
-#cor titulo site (quando nao tem logo) preto 
+# cor titulo site (quando nao tem logo) preto 
 menu_title = "#2b2b2b"   
 
 # Home sections
