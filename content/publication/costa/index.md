@@ -2,15 +2,15 @@
 title: Land cover is the main correlate of phytoplankton beta diversity in subtropical coastal shallow lakes
 
 authors:
-- ana
-- Luciane Oliveira Crossetti
-- Sandra Maria Hartz
-- Fernando Gertum Becker
-- Luiz Ubiratan Hepp
-- Juliana Bohnenberger
-- Marla Lima
-- Tais Guimarães
-- 1fabi
+- **ana**
+- L.O. Crossetti
+- S.M. Hartz
+- F.G. Becker
+- L.U. Hepp
+- J.E. Bohnenberger
+- M.S. Lima
+- T. Guimarães
+- **1fabi**
 
 
 date: "2020-08-01T00:00:00Z"
