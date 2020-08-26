@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary azul do logo para textos com link #607CA0
-primary = "EDC2A6"
+primary = "#EDC2A6"
 
 # Menu
 menu_primary = "white"
