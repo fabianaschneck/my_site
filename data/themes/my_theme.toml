@@ -4,16 +4,16 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary azul do logo para textos com link #607CA0
-primary = "#A17E68"
+# Primary para textos com link   azul do logo (#607CA0)
+primary = "#42556E"
 
 # Menu
 menu_primary = "white"
 
-# cor texto dos botoes de menu (azul logo)
+# cor texto dos botoes de menu (cinza)
 menu_text = "#6E6E6E" 
 
-# cor botao ativo no menu (cinza)
+# cor botao ativo no menu (marrom)
 menu_text_active = "#A17E68"
 
 # cor titulo site (quando nao tem logo) preto 
