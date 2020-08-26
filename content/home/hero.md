@@ -8,7 +8,7 @@ weight = 160  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-#hero_media = "hero-academic.png"
+hero_media = "logo_completo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -38,7 +38,7 @@ title = ""
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://ppgbac.furg.br/"
-  icon = "ppgbac_logo"
+ 
   
 +++
 
