@@ -4,11 +4,11 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary azul escuro para textos com link e menu 
+# Primary azul escuro para textos com link 
 primary = "#607CA0"
 
 # Menu
-menu_primary = "#fff"
+menu_primary = "#607CA0""
 
 #cor texto dos botoes de menu (cinza)
 menu_text = "#34495e" 
