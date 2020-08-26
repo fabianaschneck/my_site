@@ -5,12 +5,18 @@ name = "my_theme"
 light = true
 
 # Primary azul escuro para textos com link e menu 
-primary = "#435267"
+primary = "#607CA0"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#CD5C5C"
-menu_text_active = "#435267"
+
+#cor texto dos botoes de menu (cinza)
+menu_text = "#34495e" 
+
+#cor botao ativo no menu
+menu_text_active = "#607CA0"
+
+#cor titulo site (quando nao tem logo) preto 
 menu_title = "#2b2b2b"   
 
 # Home sections
