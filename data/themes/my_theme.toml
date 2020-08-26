@@ -4,8 +4,8 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary para textos com link   azul do logo (#607CA0)   "#42556E"
-primary = "#2A3C54"  
+# Primary para textos com link   azul do logo (#607CA0)   "#2A3C54"  
+primary = "#42556E" 
 
 # Menu
 menu_primary = "white"
