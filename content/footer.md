@@ -6,4 +6,4 @@ commentable: false
 editable: false
 
 ---
-{{ include “footer.html” }}
+{{ include “layouts/partials/footer.html” }}
