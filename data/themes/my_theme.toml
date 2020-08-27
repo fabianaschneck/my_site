@@ -6,6 +6,7 @@ light = true
 
 # Primary para textos com link   azul do logo (#607CA0)   "#2A3C54"  
 primary = "#42556E" 
+primary_light = "#A17570"
 
 # Menu
 menu_primary = "white"
