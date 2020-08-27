@@ -4,7 +4,7 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary para textos com link   azul do logo (#607CA0)   "#2A3C54"  ultimo azul"#42556E" 
+# Primary para textos com link usei marrom     outros azul do logo (#607CA0)   "#2A3C54"  ultimo azul"#42556E" 
 primary = "#A17570" 
 primary_light = "#A17570"
 
