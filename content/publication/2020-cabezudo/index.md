@@ -6,7 +6,7 @@ authors: ["M.M. Cabezudo", "K.F. Ribeiro", "admin", "V.R. Werner", "M.S. Lima", 
 
 
 date: "2020-04-01T00:00:00Z"
-doi: "https://doi.org/10.1007/s10750-020-04250-w(0123456789().,-volV()0123456789().,-volV"
+doi: "https://doi.org/10.1007/s10750-020-04250-w
 
 
 
