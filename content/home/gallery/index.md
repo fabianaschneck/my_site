@@ -18,12 +18,12 @@ color = "White"
 [[gallery_item]] 
 album = "gallery" 
 image = "ausentes2.JPG" 
-caption = "Streams at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
+caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
 
 [[gallery_item]] 
 album = "gallery" 
 image = "ausentes3.JPG" 
-caption = "Streams at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
+caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
 
 [[gallery_item]] 
 album = "gallery" 
@@ -37,5 +37,5 @@ caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 +++
 {{< gallery >}}
-*Click on figures for caption*
+*Click on figures for captions*
 
