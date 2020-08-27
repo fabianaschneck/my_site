@@ -26,7 +26,7 @@ abstract: Environmental heterogeneity and productivity are factors driving beta 
 #- Source Themes
 #featured: false
 
-# links:
+links:
 - name: ""
 #   url: ""
 url_pdf: ""
