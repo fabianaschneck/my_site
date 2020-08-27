@@ -11,12 +11,18 @@ subtitle = "Pictures from field work, lab experiments and our team in action"
 
 [design.background]
 
-#Background color.
+#Background color
 color = "White"
 
-[[gallery_item]] album = "gallery" image = "ausentes2.JPG" caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
+[[gallery_item]] 
+album = "gallery" 
+image = "ausentes2.JPG" 
+caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
 
-[[gallery_item]] album = "gallery" image = "ausentes3.JPG" caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
+[[gallery_item]] 
+album = "gallery" 
+image = "ausentes3.JPG" 
+caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
 
 +++
 
