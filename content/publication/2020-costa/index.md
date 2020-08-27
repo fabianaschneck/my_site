@@ -3,7 +3,7 @@ title: Land cover is the main correlate of phytoplankton beta diversity in subtr
 
 #authors: ["*Ana Paula Tavares Costa*", "L.O. Crossetti", "S.M. Hartz", "F.G. Becker", "L.U. Hepp", "J.E. Bohnenberger", "M.S. Lima", "T. Guimarães", "*Fabiana Schneck*"]
 authors: 
--ana
+- ana
 - L.O. Crossetti
 - S.M. Hartz
 - F.G. Becker
