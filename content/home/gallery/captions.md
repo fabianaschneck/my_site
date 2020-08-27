@@ -4,12 +4,12 @@ title = "mypage"
 
 [[gallery_item]]
   album = "gallery"
-  image = "ausentes2.jpg"
+  image = "ausentes2.JPG"
   caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
 
 [[gallery_item]]
   album = "gallery"
-  image = "ausentes3.jpg"
+  image = "ausentes3.JPG"
   caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
   
 +++
