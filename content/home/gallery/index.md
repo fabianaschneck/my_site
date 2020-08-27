@@ -27,7 +27,7 @@ caption = "Stream at the beautiful region of Campos de Cima da Serra, São José
 
 [[gallery_item]] 
 album = "gallery" 
-image = "cassino_2016_coleta_ana.jpg" 
+image = "cassino_2016_coleta_ana.JPG" 
 caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
 
 [[gallery_item]] 
