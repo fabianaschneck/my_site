@@ -168,7 +168,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = true
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -204,11 +204,6 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
-  # If true, publication's titles won't be linked to publication's pages
-  disable_links_title = true
-  
-  # If true, publication's authors won't be linked to their profile pages
-  disable_links_authors = true
   
 # Configuration of project pages.
 [projects]
