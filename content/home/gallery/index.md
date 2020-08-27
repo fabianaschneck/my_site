@@ -18,12 +18,22 @@ color = "White"
 [[gallery_item]] 
 album = "gallery" 
 image = "ausentes2.JPG" 
-caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
+caption = "Streams at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
 
 [[gallery_item]] 
 album = "gallery" 
 image = "ausentes3.JPG" 
-caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
+caption = "Streams at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "cassino_2016_coleta_ana.JPG" 
+caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "pelotas_2020_coleta_tauana2.JPG" 
+caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 +++
 {{< gallery >}}
