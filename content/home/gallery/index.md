@@ -26,8 +26,6 @@ image = "ausentes3.JPG"
 caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
 
 +++
-Click on figures for caption
-
 {{< gallery >}}
-
+*Click on figures for caption*
 
