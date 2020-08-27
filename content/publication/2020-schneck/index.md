@@ -5,7 +5,7 @@ authors: ["admin", "S.M. Hartz", "A.S. Melo"]
 
 
 
-date: "2020-04-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.1590/S2179-975X8819"
 
 
