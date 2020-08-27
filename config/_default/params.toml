@@ -204,10 +204,11 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
-  # Link the title of the publication to the publication
-  links_title = true
-  # Link the authors of the publication to the list of publication made by this author
-  links_authors = false
+  # If true, publication's titles won't be linked to publication's pages
+  disable_links_title = true
+  
+  # If true, publication's authors won't be linked to their profile pages
+  disable_links_authors = true
   
 # Configuration of project pages.
 [projects]
