@@ -10,7 +10,7 @@ authors:
 - J.E. Bohnenberger
 - M.S. Lima
 - T. Guimarães
-- **1fabi**
+- "**1fabi**"
 
 
 date: "2020-08-01T00:00:00Z"
