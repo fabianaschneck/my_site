@@ -27,12 +27,12 @@ caption = "Streams at the beautiful region of Campos de Cima da Serra, S√£o Jos√
 
 [[gallery_item]] 
 album = "gallery" 
-image = "cassino_2016_coleta_ana.JPG" 
+image = "cassino_2016_coleta_ana.jpg" 
 caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "pelotas_2020_coleta_tauana2.JPG" 
+image = "pelotas_2020_coleta_tauana2.jpg" 
 caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 +++
