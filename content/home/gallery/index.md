@@ -8,7 +8,7 @@ weight = 100  # Order that this section will appear.
 
 title = "Images"
 subtitle = "Pictures from field work, lab experiments and our team in action"
-description = "Click on figures for caption"
+
 
 [design.background]
 
@@ -26,7 +26,7 @@ image = "ausentes3.JPG"
 caption = "Campos de Cima da Serra, São José dos Ausentes, RS"
 
 +++
-
+Click on figures for caption
 
 {{< gallery >}}
 
