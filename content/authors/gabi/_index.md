@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Gabriela Junqueira
+title: Gabriela Junqueira
 
 # Username (this should match the folder name)
 authors:
