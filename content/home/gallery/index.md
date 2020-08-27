@@ -15,7 +15,7 @@ subtitle = "Pictures from field work, lab experiments and our team in action"
 color = "White"
 +++
 
-{{< gallery dir="/content/home/gallery/gallery/" />}}
+{{< gallery >}}
 
 {{< figure src="ausentes2.jpg" caption="This is a caption">}}
 
