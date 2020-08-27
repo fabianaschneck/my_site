@@ -1,5 +1,5 @@
 ---
-title: Obituary: Albano Schwarzbold (1941-2019)
+title: "Obituary: Albano Schwarzbold (1941-2019)"
 
 authors: ["admin", "S.M. Hartz", "A.S. Melo"]
 
