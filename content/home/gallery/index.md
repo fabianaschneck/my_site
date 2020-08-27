@@ -14,15 +14,6 @@ subtitle = "Pictures from field work, lab experiments and our team in action"
 #Background color.
 color = "White"
 
-[[gallery_item]]
-  album = "gallery"
-  image = "ausentes2.jpg"
-  caption = "AAA"
-  
-  [[gallery_item]]
-  album = "gallery"
-  image = "ausentes3.jpg"
-  caption = "AAA"
 +++
 
 {{< gallery >}}
