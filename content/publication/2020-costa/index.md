@@ -8,7 +8,8 @@ authors:
 - F.G. Becker
 - L.U. Hepp
 - J.E. Bohnenberger
-- M.S. Lima", "T. Guimarães
+- M.S. Lima
+- T. Guimarães
 - **1fabi**
 
 
