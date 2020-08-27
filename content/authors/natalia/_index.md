@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Natália Popiorek dos Santos
+
 # Username (this should match the folder name)
 authors:
 - natalia
@@ -49,5 +50,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - "Undergrad Students"
+
 ---
 
