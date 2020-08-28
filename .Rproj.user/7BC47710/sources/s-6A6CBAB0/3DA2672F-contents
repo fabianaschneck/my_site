@@ -19,27 +19,8 @@ organizations:
   url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: texto
+#bio:
 
-interests:
-- Community ecology
-- Biodiversity patterns and processes in stream networks
-- Anthropogenic impacts on freshwater biodiversity
-
-education:
-  courses:
-  - course: PhD in Ecology
-    institution: Universidade Federal do Rio Grande do Sul, BR
-    url: "http://www.ufrgs.br"
-    year: 2012
-  - course: MSc in Ecology
-    institution: Universidade Federal do Rio Grande do Sul, BR
-    year: 2007
-  - course: BSc in Biology
-    institution: Universidade Federal do Rio Grande do Sul, BR
-    year: 2004
-    
-    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,9 +38,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0018-444X
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Fabiana_Schneck
+#- icon: researcherid
+ # icon_pack: ai
+#  link: 
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/0976627401327631
@@ -79,16 +60,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
-
-
 ---
-I’m a full professor at Instituto de Ciências Biológicas (Biological Science Institute) in Universidade Federal do Rio Grande - FURG, Rio Grande, southernmost Brazil. 
 
-I’m interest in freshwater ecology since I was an undergrad back in 2001. At that time, I started to work at the Limnology Lab at Universidade Federal do Rio Grande do Sul - UFRGS [http://www.ufrgs.br/], where I also did my Masters on the effects of eutrophication on stream benthic diatoms. 
-
-During my PhD in Ecology at UFRGS [https://www.ufrgs.br/ppgecologia/] I worked with Adriano S. Melo [https://www.researchgate.net/profile/Adriano_Melo2] looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. 
-
-Nowadays I continue working with freshwater ecology with a very talented group of young Brazilian scientists. 
-
+Inserir texto
 
 

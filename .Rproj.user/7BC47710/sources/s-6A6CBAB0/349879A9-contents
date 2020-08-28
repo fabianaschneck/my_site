@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Ana Paula Tavares Costa
+title: Gabriela Junqueira
 
 # Username (this should match the folder name)
 authors:
-- ana
+- gabi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD student 
+role: PhD student (UFRGS) 
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal do Rio Grande - FURG
-  url: "https://ppgbac.furg.br/"
+- name: Universidade Federal do Rio Grande do Sul
+  url: "https://www.ufrgs.br/ppgecologia/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: SSSSS
@@ -27,21 +27,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:anapaulatavarescosta@gmail.com"
+  link: "mailto:mg.junqueira@hotmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/junqueiragaabi
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-1938-1299
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ana_Paula_Costa6
+  link: https://orcid.org/0000-0002-6112-765X
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/5655103785290488
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: 
+  link: http://lattes.cnpq.br/0240464309673413
+- icon: github
+  icon_pack: fab
+  link: https://github.com/junqueiragaabi
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -50,6 +48,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Graduate Students
----
 
-Inserir texto
+---
