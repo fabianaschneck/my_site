@@ -34,7 +34,7 @@ We are mainly interested in better understanding **spatial and temporal patterns
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
 
-{{< figure library="true" src="logo_completo.png" >}}
+{{< figure ="true" src="logo_completo.png" >}}
 
 
 
