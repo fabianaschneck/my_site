@@ -1,37 +1,30 @@
-
-
 +++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+# lab summary using blank widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-hero_media = "logo_completo.png"
 
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
-columns = "2"
+columns = "1"
 
   
 [design.background]
 
-#Background color.
+#Background color
 color = "White"
+
 
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["40px", "5px", "20px", "5px"]
+padding = ["40px", "20px", "20px", "20px"]
 
 
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
-#[cta]
-  #url = ""
-  #label = ""
+
   
 +++
 
@@ -41,8 +34,7 @@ We are mainly interested in better understanding **spatial and temporal patterns
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
 
-
-
+{{< figure library="true" src="logo_completo.png" >}}
 
 
 
