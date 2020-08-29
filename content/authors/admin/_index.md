@@ -88,7 +88,7 @@ I’m interested in freshwater ecology since I was an undergrad back in 2001. At
 
 During my [PhD in Ecology at UFRGS] (https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo] (https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. 
 
-Nowadays I continue working with freshwater ecology investigating biodiversity patterns and underlying mechanisms and supervising a very talented group of young Brazilian scientists. 
+Nowadays I continue working with freshwater ecology investigating biodiversity patterns and underlying mechanisms and supervising a talented group of young Brazilian scientists. 
 
 
 
