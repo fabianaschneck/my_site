@@ -9,7 +9,7 @@ weight = 20  # Order that this section will appear.
 [design]
 
 #Choose how many columns the section has. Valid values: 1 or 2.
-columns = "1"
+columns = "2"
 
   
 [design.background]
@@ -34,7 +34,7 @@ We are mainly interested in better understanding **spatial and temporal patterns
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
 
-{{< figure library="true" src="/media/logo_completo.png" >}}
+{{< figure src="/media/logo_completo.png" >}}
 
 
 
