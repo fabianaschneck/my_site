@@ -28,10 +28,10 @@ padding = ["20px", "10px", "20px", "10px"]
   
 +++
 
-We are mainly interested in better understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
+##We are mainly interested in better understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
 
 
-We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
+##We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
