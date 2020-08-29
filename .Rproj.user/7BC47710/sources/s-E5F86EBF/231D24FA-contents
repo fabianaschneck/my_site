@@ -21,7 +21,7 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["40px", "20px", "20px", "20px"]
+padding = ["20px", "20px", "20px", "20px"]
 
 
 
@@ -34,7 +34,7 @@ We are mainly interested in better understanding **spatial and temporal patterns
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
 
-{{< figure src="/media/logo_completo.png" >}}
+{{< figure = "true" src="/media/logo_completo.png" >}}
 
 
 
