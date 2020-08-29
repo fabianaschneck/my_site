@@ -34,7 +34,9 @@ color = "White"
   #label = ""
   
 +++
+
 We are mainly interested in better understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
+
 
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.
 
