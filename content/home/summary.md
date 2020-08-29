@@ -32,8 +32,14 @@ padding = ["120px", "0", "120px", "0"]
 #[cta]
   #url = ""
   #label = ""
+  
 +++
-We are mostly interested in understanding the **mechanisms that generate and maintain biodiversity** and its **spatial and temporal patterns in aquatic environments**, especially **streams**. Particularly, the study of **beta diversity** may offer insights on the factors driving biodiversity patterns.
+We are mostly interested in better understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, especially in **streams**. Particularly, the study of **beta diversity** may offer insights on the factors driving biodiversity patterns.
+
+Streams harbor a large portion of freshwater biodiversity, but are being highly modified by human-induced impacts at both local and landscape scales. In southern Brazil, those impacts are mainly related to the **replacement of natural landscapes by agricultural ones**. Thus, it becomes a pressing task to understand how **stream communities respond to anthropogenic changes**.  
+
+
+
 
 
 
