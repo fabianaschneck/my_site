@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1598656380947.000,
+    "created" : 1598661025089.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3142443457",
-    "id" : "40048E2A",
-    "lastKnownWriteTime" : 1598656410,
+    "hash" : "3322290655",
+    "id" : "1BD26EAE",
+    "lastKnownWriteTime" : 1598661176,
     "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/content/authors/admin/_index.md",
     "project_path" : "content/authors/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "89,0",
-        "scrollLine" : "83"
+        "cursorPosition" : "21,6",
+        "scrollLine" : "19"
     },
     "relative_order" : 1,
     "source_on_save" : false,
