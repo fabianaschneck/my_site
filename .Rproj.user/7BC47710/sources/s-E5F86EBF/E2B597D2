@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3001262901",
+    "hash" : "1286766389",
     "id" : "E2B597D2",
-    "lastKnownWriteTime" : 1598739579,
+    "lastKnownWriteTime" : 1598739796,
     "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/content/home/summary.md",
     "project_path" : "content/home/summary.md",
     "properties" : {
-        "cursorPosition" : "25,40",
-        "scrollLine" : "16"
+        "cursorPosition" : "25,21",
+        "scrollLine" : "7"
     },
     "relative_order" : 3,
     "source_on_save" : false,
