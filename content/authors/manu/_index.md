@@ -37,7 +37,7 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/5154352079713325
-: 
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
