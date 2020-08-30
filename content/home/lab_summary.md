@@ -21,7 +21,7 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["20px", "50", "20px", "50"]
+padding = ["20px", "50px", "20px", "50px"]
 
 
 
