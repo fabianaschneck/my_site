@@ -1,0 +1,25 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary para textos com link usei marrom     outros azul do logo (#607CA0)   "#2A3C54"  ultimo azul"#42556E" 
+primary = "#A17570" 
+primary_light = "#A17570"
+
+# Menu
+menu_primary = "white"
+
+# cor texto dos botoes de menu (cinza)
+menu_text = "#6E6E6E" 
+
+# cor botao ativo no menu (marrom "#A17E68")
+menu_text_active = "#A17570"
+
+# cor titulo site (quando nao tem logo) preto 
+menu_title = "#2b2b2b"   
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
