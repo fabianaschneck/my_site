@@ -31,12 +31,12 @@ padding = ["20px", "0", "20px", "0"]
   <div class="row">
 
 
-<div class="col-12 col-lg-8" style="padding:50px;"> 
+<div class="col-12 col-lg-8" style="padding:100px;"> 
 
-<font size="10">Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes.</font>  
+Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
 <br>
 <br>
-<font size="12">We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
+We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling. 
 <br>
 </div>
 
