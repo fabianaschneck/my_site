@@ -31,7 +31,7 @@ padding = ["20px", "0", "20px", "0"]
   <div class="row">
 
 
-<div class="col-12 col-lg-8" style="padding:100px;"> 
+<div class="container centered"> 
 
 Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
 <br>
