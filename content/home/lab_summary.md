@@ -24,7 +24,9 @@ color = "White"
 padding = ["40px", "10px", "20px", "10px"]
 
 
-
+[advanced]
+ # Custom CSS. 
+ css_style = "custom"
   
 +++
 Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
