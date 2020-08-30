@@ -21,7 +21,7 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["20px", "100px", "20px", "100px"]
+padding = ["40px", "0", "20px", "0"]
 
 #para a parte de conteudo font size ="6" ==24 pt; "5"==18pt
 #mudar cor texto <span style="color:#607CA0">conteudo</span> 
