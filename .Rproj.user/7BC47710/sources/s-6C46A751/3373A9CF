@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1598819925770.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "824234295",
+    "hash" : "0",
     "id" : "3373A9CF",
-    "lastKnownWriteTime" : 1598826002,
+    "lastKnownWriteTime" : 1598826356,
     "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/content/home/lab_summary.md",
     "project_path" : "content/home/lab_summary.md",
     "properties" : {
-        "cursorPosition" : "30,163",
-        "scrollLine" : "21"
+        "cursorPosition" : "26,0",
+        "scrollLine" : "16"
     },
     "relative_order" : 2,
     "source_on_save" : false,
