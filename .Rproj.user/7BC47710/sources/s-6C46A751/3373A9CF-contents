@@ -25,7 +25,7 @@ padding = ["40px", "10px", "20px", "10px"]
 
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS 
  css_style = "custom"
   
 +++
