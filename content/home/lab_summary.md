@@ -25,8 +25,8 @@ padding = ["40px", "10px", "20px", "10px"]
 
 
 [advanced]
- # Custom CSS. 
- css_style = "custom"
+ # Custom CSS 
+ css_style = "assets/scss/custom.scss"
   
 +++
 Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
@@ -34,7 +34,6 @@ Our research in focused on understanding **spatial and temporal patterns of fres
 <br>
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling. 
 <br>
-
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
 
