@@ -28,10 +28,10 @@ padding = ["40px", "5px", "20px", "5px"]
   
 +++
 
-<font size="8">Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes.</font> 
+<font size="10">Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes.</font> 
 <br>
 <br>
-<font size="8">We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
+<font size="10">We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
 <br>
 {{< figure = "true" src="/media/logo_completo.png" >}}
 
