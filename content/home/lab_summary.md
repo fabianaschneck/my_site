@@ -21,18 +21,14 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["40px", "10px", "20px", "10px"]
+padding = ["20px", "0", "20px", "0"]
 
 
-[advanced]
- # Custom CSS 
- css_style = "assets/scss/custom.scss"
-  
 +++
-Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
+<span style="color:#C28542">Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes.</span> 
 <br>
 <br>
-We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling. 
+<font size="12">We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
 <br>
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
