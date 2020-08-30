@@ -23,12 +23,13 @@ color = "White"
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["20px", "0", "20px", "0"]
 
-#font size ="6" ==24 pt
+#para a parte de conteudo font size ="6" ==24 pt; "5"==18pt
+#mudar cor texto <span style="color:#607CA0">conteudo</span> 
 +++
-<font size="6">Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes.</font> 
+<font size="5">Our research in focused on understanding <span style="color:#607CA0">**spatial and temporal patterns of freshwater biodiversity**</span> and underlying mechanisms, in both natural and anthropogenic landscapes.</font> 
 <br>
 <br>
-<font size="6">We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
+<font size="5">We have a special bond with <span style="color:#607CA0">**streams**</span>, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
 <br>
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
