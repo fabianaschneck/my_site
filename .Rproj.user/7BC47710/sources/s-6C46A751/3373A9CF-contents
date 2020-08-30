@@ -21,24 +21,18 @@ color = "White"
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["20px", "0", "20px", "0"]
+padding = ["20px", "50", "20px", "50"]
 
 
 
   
 +++
-<div class="container">
-  <div class="row">
-
-
-<div class="container centered"> 
-
 Our research in focused on understanding **spatial and temporal patterns of freshwater biodiversity** and underlying mechanisms, in both natural and anthropogenic landscapes. 
 <br>
 <br>
 We have a special bond with **streams**, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling. 
 <br>
-</div>
+
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
 
