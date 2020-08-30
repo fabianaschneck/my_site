@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Welcome to the Stream Ecology Lab"
-subtitle = <font size="4">"at Universidade Federal do Rio Grande - FURG, Brazil"</font> 
+subtitle = "at Universidade Federal do Rio Grande - FURG, Brazil"
 
 [design]
 
@@ -39,4 +39,10 @@ text_color_light = true
 #Customize the section spacing. Order is top, right, bottom, left.
 padding = ["180px", "0", "180px", "0"]
 
+
+#exemplo para inserir como conteudo
+#<br> significa espaco, colocar tantos qtos espacos sao necessarios
+#<p style="text-align:center"><font size="7">conteudo</font></p>
+#<p style="text-align:center"><font size="5">conteudo</font></p>
+#<br>
 +++
