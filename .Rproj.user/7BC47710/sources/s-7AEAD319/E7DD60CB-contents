@@ -38,7 +38,7 @@ education:
   - course: MSc in Ecology
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2007
-  - course: BSc in Biology
+  - course: BSc in Biological Sciences
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2004
     

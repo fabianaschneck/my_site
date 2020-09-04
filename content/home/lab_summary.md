@@ -27,9 +27,9 @@ padding = ["40px", "0", "20px", "0"]
 #mudar cor texto <span style="color:#607CA0">conteudo</span> 
 +++
 
-<font size="4">Our research in focused on understanding <span style="color:#607CA0">**spatial and temporal patterns of freshwater biodiversity**</span> and underlying mechanisms, in both natural and anthropogenic landscapes.</font> 
+<font size="4">Our research in focused on understanding <span style="color:#607CA0">**spatial and temporal patterns of freshwater biodiversity**</span> and underlying processes that <span style="color:#607CA0">**generate and change biological communities**</span>, in both natural and anthropogenic landscapes.</font> 
 
-<font size="4">We have a special bond with <span style="color:#607CA0">**streams**</span>, but our studies also encompass lentic environments, mesocosm experiments and statistical modelling.</font> 
+<font size="4"><span style="color:#607CA0">We have a special bond with **streams**</span>, and at most of our studies we use stream benthic diatoms as a biological model to describe diversity patterns and test ecological hypotheses. Our studies also encompass stream insects, phytoplankton and macrophytes in lentic environments and mesocosm experiments.</font> 
 
 {{< figure = "true" src="/media/logo_completo.png" >}}
 
