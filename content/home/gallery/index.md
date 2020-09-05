@@ -52,17 +52,17 @@ caption = "Sampling aquatic plants in the region of Taim Biological Station, a R
 
 [[gallery_item]] 
 album = "gallery" 
-image = "expCassia_2017.jpg" 
-caption = "Microcosms experiment on the effects of increasde water temperature on benthic diatoms"
+image = "expCassia_2017.JPG" 
+caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "expCassia2.jpg" 
-caption = "Microcosms experiment on the effects of increasde water temperature on benthic diatoms"
+image = "expCassia2.JPG" 
+caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "intervales.jpg" 
+image = "intervales.JPG" 
 caption = "Sampling site at Intervales Park, an Atlantic Forest remnant at São Paulo state"
 
 [[gallery_item]] 
@@ -72,17 +72,17 @@ caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Interval
 
 [[gallery_item]] 
 album = "gallery" 
-image = "SELCS2018.jpg" 
+image = "SELCS2018.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "Z-maio2019.jpg" 
+image = "Z-maio2019.JPG" 
 caption = ""
 
 [[gallery_item]] 
 album = "gallery" 
-image = "Zz-CBLimno2013_Bonito1.jpg" 
+image = "Zz-CBLimno2013_Bonito1.JPG" 
 caption = "Good friends at the Brazilian Limnology Congress, 2013"
 
 +++
