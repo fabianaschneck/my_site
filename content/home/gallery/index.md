@@ -27,6 +27,11 @@ caption = "Stream at the beautiful region of Campos de Cima da Serra, São José
 
 [[gallery_item]] 
 album = "gallery" 
+image = "ausentes4.JPG" 
+caption = "Stream at the south Brazil grasslands region where we conducted in situ experiments"
+
+[[gallery_item]] 
+album = "gallery" 
 image = "cassino_2016_coleta_ana.JPG" 
 caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
 
@@ -37,8 +42,48 @@ caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 [[gallery_item]] 
 album = "gallery" 
+image = "pelotas_2020_coleta_tauana3.jpg" 
+caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
+
+[[gallery_item]] 
+album = "gallery" 
 image = "banhados_claudio.jpg" 
 caption = "Sampling aquatic plants in the region of Taim Biological Station, a RAMSAR site"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "expCassia_2017.jpg" 
+caption = "Microcosms experiment on the effects of increasde water temperature on benthic diatoms"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "expCassia2.jpg" 
+caption = "Microcosms experiment on the effects of increasde water temperature on benthic diatoms"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "intervales.jpg" 
+caption = "Sampling site at Intervales Park, an Atlantic Forest remnant at São Paulo state"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "intervales2.jpg" 
+caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Intervales Park, an Atlantic Forest remnant at São Paulo state"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "SELCS2018.jpg" 
+caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
+
+[[gallery_item]] 
+album = "gallery" 
+image = "Z-maio2019.jpg" 
+caption = ""
+
+[[gallery_item]] 
+album = "gallery" 
+image = "Zz-CBLimno2013_Bonito1.jpg" 
+caption = "Good friends at the Brazilian Limnology Congress, 2013"
 
 +++
 {{< gallery >}}
