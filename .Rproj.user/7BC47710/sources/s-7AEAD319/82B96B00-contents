@@ -17,11 +17,6 @@ color = "White"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "ausentes2.JPG" 
-caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
-
-[[gallery_item]] 
-album = "gallery" 
 image = "ausentes3.JPG" 
 caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
 
@@ -74,11 +69,6 @@ caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Interval
 album = "gallery" 
 image = "SELCS2018.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
-
-[[gallery_item]] 
-album = "gallery" 
-image = "Z-maio2019.JPG" 
-caption = ""
 
 [[gallery_item]] 
 album = "gallery" 
