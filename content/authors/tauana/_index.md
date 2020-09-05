@@ -52,5 +52,5 @@ user_groups:
 - ""
 ---
 
-I am a biologist and Master’s student in [Biology of Continental Aquatic Environments at FURG](www.ppgbac.furg.br). I'm working with stream benthic macroinvertebrates and specifically interested in understanding resource partitioning among scrapers with focus on the consumption of diatoms that live in distinct layers of the periphytic biofilm. I want to know whether scrapers have feeding preferences over diatoms and I'm going to quantify resource partitioning by evaluating trophic niche overlap and width. I'm co-supervised by Prof Edélti Faria Albertoni (FURG). 
+I am a biologist and Master’s student in [Biology of Continental Aquatic Environments at FURG](https://ppgbac.furg.br/). I'm working with stream benthic macroinvertebrates and specifically interested in understanding resource partitioning among scrapers with focus on the consumption of diatoms that live in distinct layers of the periphytic biofilm. I want to know whether scrapers have feeding preferences over diatoms and I'm going to quantify resource partitioning by evaluating trophic niche overlap and width. I'm co-supervised by Prof Edélti Faria Albertoni (FURG). 
 

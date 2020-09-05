@@ -56,5 +56,4 @@ user_groups:
 
 I have a degree in Biological Sciences at Tuiuti University, Paraná, Brazil, and a Master's degree in Botany at Universidade Federal do Paraná. 
 
-I am a PhD student in [Biology of Continental Aquatic Environments at FURG](www.ppgbac.furg.br) and my
-work is focused on the analysis of beta and functional diversity of periphytic diatoms of pristine subtropical streams.
+I am a PhD student in [Biology of Continental Aquatic Environments at FURG](https://ppgbac.furg.br/) and my work is focused on the analysis of beta and functional diversity of periphytic diatoms of pristine subtropical streams.
