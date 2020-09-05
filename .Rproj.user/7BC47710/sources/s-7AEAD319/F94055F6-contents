@@ -17,71 +17,71 @@ color = "White"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img1.JPG" 
+image = "img11.JPG" 
 caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img2.JPG" 
+image = "img12.JPG" 
 caption = "Stream at the south Brazil grasslands region where we conducted in situ experiments"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img3.JPG" 
+image = "img13.JPG" 
 caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img4.jpg" 
+image = "img14.jpg" 
 caption = "Sampling aquatic plants in the region of Taim Biological Station, a RAMSAR site"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img5.JPG" 
+image = "img15.JPG" 
 caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img6.JPG" 
+image = "img16.JPG" 
 caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img7.jpg" 
+image = "img17.jpg" 
 caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img8.JPG" 
+image = "img18.JPG" 
 caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img9.JPG" 
+image = "img19.JPG" 
 caption = "Sampling site at Intervales Park, an Atlantic Forest remnant at São Paulo state"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img10.jpg" 
+image = "img20.jpg" 
 caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Intervales Park, an Atlantic Forest remnant at São Paulo state"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img11.JPG" 
+image = "img21.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img12.jpg" 
+image = "img22.jpg" 
 caption = "Good friends at the Brazilian Limnology Congress, 2013"
 
 
