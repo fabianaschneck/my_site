@@ -52,7 +52,7 @@ caption = "Microcosms experiment on the effects of increased water temperature o
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img17.JPG" 
+image = "img17.jpg" 
 caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
 
 
