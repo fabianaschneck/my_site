@@ -23,7 +23,7 @@ caption = "Stream at the beautiful region of Campos de Cima da Serra (high-altit
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img12.JPG" 
+image = "img12.jpg" 
 caption = "Stream at the high-altitude grasslands of the Atlantic forest biome where we conducted in situ experiments"
 
 
@@ -59,13 +59,13 @@ caption = "Microcosms experiment on the effects of increased water temperature o
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img18.jpg" 
+image = "img18.JPG" 
 caption = "Sampling aquatic plants in the region of Taim Biological Station, a RAMSAR site"
 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img19.jpg" 
+image = "img19.JPG" 
 caption = "Stream site at Pampa grasslands where we are conducting researches on ecosystem services, diatoms biodiversity and bioindicators"
 
 [[gallery_item]] 
@@ -83,8 +83,6 @@ caption = "Stream site at Intervales Park, an Atlantic Forest remnant at São Pa
 album = "gallery" 
 image = "img22.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
-
-
 
 +++
 {{< gallery >}}
