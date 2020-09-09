@@ -17,75 +17,62 @@ color = "White"
 
 [[gallery_item]] 
 album = "gallery" 
-image = "ausentes3.JPG" 
+image = "img11.JPG" 
 caption = "Stream at the beautiful region of Campos de Cima da Serra, São José dos Ausentes, RS"
-weight = 1
+
 
 [[gallery_item]] 
 album = "gallery" 
-image = "ausentes4.JPG" 
+image = "img12.JPG" 
 caption = "Stream at the south Brazil grasslands region where we conducted in situ experiments"
-weight = 2
+
 
 [[gallery_item]] 
 album = "gallery" 
-image = "cassino_2016_coleta_ana.JPG" 
+image = "img13.JPG" 
 caption = "Coastal stream in Cassino Beach, Rio Grande, RS"
-weight = 3
 
 [[gallery_item]] 
 album = "gallery" 
-image = "pelotas_2020_coleta_tauana2.jpg" 
-caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
-weight = 4
-
-[[gallery_item]] 
-album = "gallery" 
-image = "pelotas_2020_coleta_tauana3.JPG" 
-caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
-weight = 5
-
-[[gallery_item]] 
-album = "gallery" 
-image = "banhados_claudio.jpg" 
+image = "img14.jpg" 
 caption = "Sampling aquatic plants in the region of Taim Biological Station, a RAMSAR site"
-weight = 6
+
 
 [[gallery_item]] 
 album = "gallery" 
-image = "expCassia_2017.JPG" 
+image = "img15.JPG" 
 caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
-weight = 7
+
 
 [[gallery_item]] 
 album = "gallery" 
-image = "expCassia2.JPG" 
+image = "img16.JPG" 
 caption = "Microcosms experiment on the effects of increased water temperature on benthic diatoms"
-weight = 8
 
 [[gallery_item]] 
 album = "gallery" 
-image = "intervales.JPG" 
+image = "img17.jpg" 
+caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
+
+
+[[gallery_item]] 
+album = "gallery" 
+image = "img18.JPG" 
+caption = "Sampling invertebrates in Cadeia stream, Pelotas, RS"
+
+
+[[gallery_item]] 
+album = "gallery" 
+image = "img19.JPG" 
 caption = "Sampling site at Intervales Park, an Atlantic Forest remnant at São Paulo state"
-weight = 9
+
 
 [[gallery_item]] 
 album = "gallery" 
-image = "intervales2.jpg" 
-caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Intervales Park, an Atlantic Forest remnant at São Paulo state"
-weight = 10
-
-[[gallery_item]] 
-album = "gallery" 
-image = "SELCS2018.JPG" 
+image = "img21.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
-weight = 11
 
-[[gallery_item]] 
-album = "gallery" 
-image = "Zz-CBLimno2013_Bonito1.jpg" 
-caption = "Good friends at the Brazilian Limnology Congress, 2013"
-weight = 12
+
 
 +++
 {{< gallery >}}

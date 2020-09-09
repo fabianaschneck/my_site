@@ -69,20 +69,9 @@ caption = "Sampling site at Intervales Park, an Atlantic Forest remnant at São 
 
 [[gallery_item]] 
 album = "gallery" 
-image = "img20.jpg" 
-caption = "Carlos, Fabiana and Tadeu after sampling 100 stream sites at Intervales Park, an Atlantic Forest remnant at São Paulo state"
-
-
-[[gallery_item]] 
-album = "gallery" 
 image = "img21.JPG" 
 caption = "Part of the organizing committee of the 2018 Brazilian Subtropical Limnology Seminar"
 
-
-[[gallery_item]] 
-album = "gallery" 
-image = "img22.jpg" 
-caption = "Good friends at the Brazilian Limnology Congress, 2013"
 
 
 +++
