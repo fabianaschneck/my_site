@@ -31,7 +31,7 @@ padding = ["40px", "0", "20px", "0"]
 
 <font size="4"><span style="color:#607CA0">**We have a special bond with streams**</span>, and at most of our studies we use benthic diatoms as a biological model to describe diversity patterns and test ecological hypotheses. Our studies also encompass stream insects, phytoplankton and macrophytes in lentic environments and mesocosm experiments.</font> 
 
-{{< figure = "true" src="/media/logo_completo.png" >}}
+{{< figure = "true" src="/media/Logo_Lab_sem-fundo.png" >}}
 
 
 
