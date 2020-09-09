@@ -13,7 +13,7 @@ weight: 1
 superuser: true
 
 # Role/position
-role: Professora de Ecologia 
+role: Professor of Ecology 
 
 # Organizations/Affiliations
 organizations:
@@ -25,20 +25,20 @@ organizations:
 #bio: 
 
 interests:
-- Ecologia de comunidades
-- Biodiversidade em redes dendríticas
-- Impactos antrópicos sobre a diversidade aquática
+- Community ecology
+- Biodiversity in stream networks
+- Anthropogenic impacts on freshwater biodiversity
 
 education:
   courses:
-  - course: Doutorado em Ecologia
+  - course: PhD in Ecology
     institution: Universidade Federal do Rio Grande do Sul, BR
     url: "http://www.ufrgs.br"
     year: 2012
-  - course: Mestrado em Ecologia
+  - course: MSc in Ecology
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2007
-  - course: Bacharelado em Ciências Biológicas
+  - course: BSc in Biological Sciences
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2004
     
@@ -85,14 +85,13 @@ user_groups:
 
 
 ---
-Sou professor de Ecologia do Instituto de Ciências Biológicas da Universidade Federal do Rio Grande - FURG, [Rio Grande](https://www.google.com.br/maps/@-17.1615981,-49.927824.5863354m/data=!3m1!1e3?Hl=pt-BR&authuser=0).
+I’m a Professor of Ecology at Instituto de Ciências Biológicas (Biological Sciences Institute) in Universidade Federal do Rio Grande - FURG, Rio Grande, [southernmost Brazil](https://www.google.com.br/maps/@-17.1615981,-49.927824,5863354m/data=!3m1!1e3?hl=pt-BR&authuser=0). 
 
-Meu interesse por ecologia aquática iniciou ainda na graduação em 2001. Naquela época, comecei a trabalhar no Laboratório de Limnologia da [Universidade Federal do Rio Grande do Sul - UFRGS](http://www.ufrgs.br/) com o Prof. Albano Schwarzbold, onde também fiz meu mestrado sobre os efeitos da eutrofização em diatomáceas bentônicas.
+I’m interested in freshwater ecology since I was an undergrad back in 2001. At that time, I started to work at the Limnology Lab at [Universidade Federal do Rio Grande do Sul - UFRGS](http://www.ufrgs.br/), where I also did my Masters on the effects of eutrophication on stream benthic diatoms. 
 
-Durante meu [Doutorado em Ecologia pela UFRGS](https://www.ufrgs.br/ppgecologia/) trabalhei com [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) avaliando os efeitos de complexidade do habitat, distúrbios hidrológicos e peixes raspadores/"pastejadores" na organização de comunidades de algas perifíticas de riachos.
+During my [PhD in Ecology at UFRGS](https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. I also spent six months working with Christoph Matthaei and Colin Townsend at University of Otago, New Zealand. 
 
-Atualmente, minha pesquisa tem como foco principal investigar padrões de biodiversidade em ambientes aquáticos e processos subjacentes que geram e mantêm tais padrões. Atuo como docente permanente no [Programa de Pós-graduação em Biologia de Ambientes Aquáticos Continentais](https://ppgbac.furg.br/) da FURG e tenho a sorte de supervisionar um talentoso grupo de jovens cientistas brasileiros.
+Nowadays I continue working with freshwater ecology investigating biodiversity patterns and underlying mechanisms and supervising a talented group of young Brazilian scientists.
 
-Se tiver interesse em fazer um mestrado ou doutorado comigo, entre em contato para conversarmos.
 
 
