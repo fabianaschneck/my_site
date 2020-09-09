@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Juliana Pereira Reis
+title: Camila Correa Lourenço dos Reis
 
 # Username (this should match the folder name)
 authors:
-- juliana
+- camila
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: Biology's student 
+#role: Master's student 
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-  url: "https://www.furg.br/"
- 
+  url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio:
+#bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -28,22 +27,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:reizjuliana@gmail.com"
-
+  link: "mailto:camilacldosreis@gmail.com"
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Camila_Dos_Reis2
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/2644553084600724
+  link: http://lattes.cnpq.br/9793446684259406
 
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alunos de graduação
+- "Mestrandos"
+
 ---
-
-
-
 
