@@ -14,7 +14,12 @@
   title = "Lab Ecologia de Riachos "
   [pt.params]
     description = "Português"
+    contact_links = [
+   {icon = "university", icon_pack = "fas", name = "FURG", link = "https://www.furg.br/"},
+   {icon = "graduation-cap", icon_pack = "fas", name = "PPG em Biologia de Ambientes Aquáticos Continentais", link = "https://www.ppgbac.furg.br/"}]
+
 #  [[pt.menu.main]]
 #    name = "Home"
 #    url = "#about"
 #   weight = 1
+
