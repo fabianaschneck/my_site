@@ -5,8 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Bem-vindo ao Laboratório de 
-Ecologia de Riachos"
+title = "Bem-vindo ao Laboratório de Ecologia de Riachos"
 subtitle = "Universidade Federal do Rio Grande - FURG, Rio Grande"
 
 [design]
@@ -38,7 +37,7 @@ text_color_light = true
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["180px", "0", "180px", "0"]
+padding = ["180px", "30px", "180px", "30px"]
 
 
 #exemplo para inserir como conteudo

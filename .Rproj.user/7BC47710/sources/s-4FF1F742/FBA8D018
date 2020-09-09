@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2532560175",
+    "hash" : "110197426",
     "id" : "FBA8D018",
-    "lastKnownWriteTime" : 1599691359,
+    "lastKnownWriteTime" : 1599693143,
     "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/content/pt/home/welcome.md",
     "project_path" : "content/pt/home/welcome.md",
     "properties" : {
-        "cursorPosition" : "9,12",
-        "scrollLine" : "8"
+        "cursorPosition" : "40,0",
+        "scrollLine" : "30"
     },
     "relative_order" : 1,
     "source_on_save" : false,
