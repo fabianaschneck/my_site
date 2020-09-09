@@ -21,12 +21,12 @@ organizations:
   url: "https://ppgbac.furg.br/"
 
 interests:
-- Ecologia de comunidades
-- Invertebrados aquáticos
+- Community ecology
+- Aquatic invertebrates
 
 education:
 courses:
-  - course: Bacharelado em Ciência Biológicas
+  - course: BSc. in Biological Sciences
     institution: Universidade de Passo Fundo, BR
     year: 2019
 
@@ -56,4 +56,5 @@ user_groups:
 - ""
 ---
 
-Sou bióloga e mestranda em [Biologia de Ambientes Aquáticos Continentais da FURG](https://ppgbac.furg.br/), onde sou orientada pela Fabiana e co-orientada pela Prof. Edélti Faria Albertoni. Trabalho com macroinvertebrados bentônicos de riachos e estou interessada em entender a partição de recursos entre invertebrados raspadores com foco no consumo de diatomáceas perifíticas. Quero saber se os raspadores têm preferências de alimentação em relação às diatomáceas e quantificarei a partição de recursos avaliando a sobreposição e a largura do nicho trófico. 
+I am a biologist and Master’s student in [Biology of Continental Aquatic Environments at FURG](https://ppgbac.furg.br/). I'm working with stream benthic macroinvertebrates and specifically interested in understanding resource partitioning among scrapers with focus on the consumption of diatoms that live in distinct layers of the periphytic biofilm. I want to know whether scrapers have feeding preferences over diatoms and I'm going to quantify resource partitioning by evaluating trophic niche overlap and width. I'm co-supervised by Prof Edélti Faria Albertoni (FURG). 
+

@@ -7,13 +7,13 @@ authors:
 - admin
 
 # Position of each person in page
-weight: 12
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Ecology 
+role: Professora de Ecologia 
 
 # Organizations/Affiliations
 organizations:
@@ -25,20 +25,20 @@ organizations:
 #bio: 
 
 interests:
-- Community ecology
-- Biodiversity in stream networks
-- Anthropogenic impacts on freshwater biodiversity
+- Ecologia de comunidades
+- Biodiversidade em redes dendríticas
+- Imactos antrópicos sobre a diversidade aquática
 
 education:
   courses:
-  - course: PhD in Ecology
+  - course: Doutorado em Ecologia
     institution: Universidade Federal do Rio Grande do Sul, BR
     url: "http://www.ufrgs.br"
     year: 2012
-  - course: MSc in Ecology
+  - course: Mestrado em Ecologia
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2007
-  - course: BSc in Biological Sciences
+  - course: Bacharelado em Ciências Biológicas
     institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2004
     
@@ -89,7 +89,7 @@ I’m a Professor of Ecology at Instituto de Ciências Biológicas (Biological S
 
 I’m interested in freshwater ecology since I was an undergrad back in 2001. At that time, I started to work at the Limnology Lab at [Universidade Federal do Rio Grande do Sul - UFRGS](http://www.ufrgs.br/), where I also did my Masters on the effects of eutrophication on stream benthic diatoms. 
 
-During my [PhD in Ecology at UFRGS](https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. I also spent six months working with Christoph Matthaei and Colin Townsend at University of Otago, New Zealand. 
+During my [PhD in Ecology at UFRGS](https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. 
 
 Nowadays I continue working with freshwater ecology investigating biodiversity patterns and underlying mechanisms and supervising a talented group of young Brazilian scientists.
 
