@@ -47,5 +47,5 @@ padding = ["180px", "0", "180px", "0"]
 #<p style = "font-family:georgia,garamond,serif">conteudo</p>
 #<br>
 +++
-<p style="font-family:Montserrat";"text-align:left"><font size="6">Bem-vindo ao site do<br>Laboratório de Ecologia de Riachos</font></p>
+<p style="font-family:Montserrat";"text-align:left"><font size="6.5">Bem-vindo ao site do<br>Laboratório de Ecologia de Riachos</font></p>
 <p style="text-align:left">Universidade Federal do Rio Grande - FURG, Rio Grande</p>
