@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to the Stream Ecology Lab"
+title = "Stream Ecology Lab"
 subtitle = "at Universidade Federal do Rio Grande - FURG, Brazil"
 
 [design]
