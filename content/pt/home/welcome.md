@@ -37,7 +37,7 @@ image_darken = 0 # Darken the image? Range 0-1 where 0 is transparent and 1 is o
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["180px", "0", "180px", "0"]
+padding = ["150px", "0", "150px", "0"]
 
 
 #exemplo para inserir como conteudo
