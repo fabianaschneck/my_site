@@ -1,0 +1,29 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary --> brown/orange
+primary = "#A17570"
+primary_light = "#A17570"
+
+# Menu
+menu_primary = "white"
+
+# menu text color (grey)
+menu_text = "#6E6E6E"
+
+# menu active text color
+menu_text_active = "#A17570"
+
+# cor titulo site (quando nao tem logo) preto
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+#azul do logo (#607CA0)
+
+
