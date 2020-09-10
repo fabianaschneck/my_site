@@ -32,7 +32,7 @@ image_darken = 0 # Darken the image? Range 0-1 where 0 is transparent and 1 is o
 #image_position = "center" # Options include left, center (default), or right. 
 #image_parallax = true # Use a fun parallax-like fixed background effect? true/false
 
-text_color_light = true
+#text_color_light = true
 
 [design.spacing]
 
@@ -48,4 +48,4 @@ padding = ["180px", "0", "180px", "0"]
 #<br>
 +++
 <p style="font-family:Montserrat";"text-align:left";"color=#607CA0"-><font size="7">Bem-vindo ao site do<br>Laboratório de Ecologia de Riachos</font><p>
-<p style="text-align:left"><font size="3.5">Universidade Federal do Rio Grande - FURG, Rio Grande</font></p>
+<p style="text-align:left"><font size="4">Universidade Federal do Rio Grande - FURG, Rio Grande</font></p>
