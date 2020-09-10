@@ -37,7 +37,7 @@ text_color_light = true
 [design.spacing]
 
 #Customize the section spacing. Order is top, right, bottom, left.
-padding = ["180px", "5px", "180px", "0"]
+padding = ["180px", "0", "180px", "0"]
 
 
 #exemplo para inserir como conteudo
@@ -47,7 +47,5 @@ padding = ["180px", "5px", "180px", "0"]
 #<p style = "font-family:georgia,garamond,serif">conteudo</p>
 #<br>
 +++
-<p style="font-family:Montserrat";"text-align:left"><font size="6">Bem-vindo ao site do</font></p>
-<p style="font-family:Montserrat";"text-align:left"><font size="6">Laboratório de Ecologia de Riachos</font></p>
-<br>
+<p style="font-family:Montserrat";"text-align:left"><font size="7">Bem-vindo ao site do</font><br>Laboratório de Ecologia de Riachos</font></p>
 <p style="text-align:left"><font size="4">Universidade Federal do Rio Grande - FURG, Rio Grande</font></p>
