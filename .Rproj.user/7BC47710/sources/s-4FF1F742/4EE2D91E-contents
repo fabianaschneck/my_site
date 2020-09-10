@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Bem-vindo ao site do | Laboratório de Ecologia de Riachos"
-subtitle = "Universidade Federal do Rio Grande - FURG, Rio Grande"
+#title = "Bem-vindo ao site do Laboratório de Ecologia de Riachos"
+#subtitle = "Universidade Federal do Rio Grande - FURG, Rio Grande"
 
 [design]
 
@@ -44,6 +44,10 @@ padding = ["180px", "5px", "180px", "0"]
 #<br> significa espaco, colocar tantos qtos espacos sao necessarios
 #<p style="text-align:left"><font size="7">conteudo</font></p>
 #<p style="text-align:center"><font size="5">conteudo</font></p>
+#<p style = "font-family:georgia,garamond,serif">conteudo</p>
 #<br>
 +++
-
+<p style="font-family:Montserrat";"text-align:left"><font size="6">Bem-vindo ao site do</font></p>
+<p style="font-family:Montserrat";"text-align:left"><font size="6">Laboratório de Ecologia de Riachos</font></p>
+<br>
+<p style="text-align:left"><font size="4">Universidade Federal do Rio Grande - FURG, Rio Grande</font></p>
