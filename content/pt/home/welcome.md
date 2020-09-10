@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Bem-vindo ao site do"<br>"Laboratório de Ecologia de Riachos"
+title = "Bem-vindo ao site do Laboratório de Ecologia de Riachos"
 subtitle = "Universidade Federal do Rio Grande - FURG, Rio Grande"
 
 [design]
