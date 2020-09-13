@@ -89,10 +89,12 @@ I’m a Professor of Ecology at Instituto de Ciências Biológicas (Biological S
 
 I’m interested in freshwater ecology since I was an undergrad back in 2001. At that time, I started to work at the Limnology Lab at [Universidade Federal do Rio Grande do Sul - UFRGS](http://www.ufrgs.br/), where I also did my Masters on the effects of eutrophication on stream benthic diatoms. 
 
-During my [PhD in Ecology at UFRGS](https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities. 
+During my [PhD in Ecology at UFRGS](https://www.ufrgs.br/ppgecologia/) I worked with [Adriano S. Melo](https://www.researchgate.net/profile/Adriano_Melo2) looking at the effects of habitat complexity, hydrological disturbances and grazers on structuring stream benthic algal communities.
+
+
 My research focuses primarily on investigating biodiversity patterns in freshwater environments and the underlying processes that generate and maintain such patterns. I am also broadly interested in understanding how human-induced impacts affect aquatic communities. 
 
-I also a supervisor in the [Graduate Program in Biology of Continental Aquatic Environments] (https://ppgbac.furg.br/) of FURG and I am fortunate to supervise a talented group of young Brazilian scientists.
+I'm a supervisor in the [Graduate Program in Biology of Continental Aquatic Environments](https://ppgbac.furg.br/) of FURG and I am fortunate to supervise a talented group of young Brazilian scientists.
 
 
 
