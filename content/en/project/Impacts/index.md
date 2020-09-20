@@ -14,9 +14,9 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: Quantification of ecosystem services (C.Silva)
+  caption: From Silva et al. 2019
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 #links:
 #- icon: twitter

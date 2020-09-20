@@ -11,9 +11,9 @@ weight: 1
 external_link: ""
 
 image:
-  placement: 2
+  placement: 1
   caption: From Petsch et al. 2017
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 
 #links:
