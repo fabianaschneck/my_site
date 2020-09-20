@@ -32,12 +32,5 @@ subtitle = ""
    color = "#F0F6F8"
   
  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
 

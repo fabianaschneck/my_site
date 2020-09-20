@@ -57,6 +57,6 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = "custom"
+ css_class = "fabichange"
 +++
 
