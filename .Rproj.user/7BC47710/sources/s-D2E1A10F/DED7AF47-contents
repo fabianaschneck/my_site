@@ -5,7 +5,8 @@ summary: " "
 #- Deep Learning
 date: "2020-09-20"
 
-weight:1
+weight: 1
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
