@@ -34,7 +34,7 @@
 
 .media.stream-item .article-title,
 .card-simple .article-title {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 .media.stream-item .article-style,
@@ -48,11 +48,10 @@
 }
 
 .media.stream-item img {
-  max-width: 300px;
+  max-width: 550px;
   height: auto;
   object-fit: cover;
-  position: absolute;
-  left: 0px;
+
 }
 
 @media screen and (max-width: 768px) {
