@@ -43,7 +43,6 @@ a.summary-link {
 .card .card-image {
   display: block;
   position: relative;
-  min-height: 150px;
   min-width: 150px;
   object-fit: cover;
 }
