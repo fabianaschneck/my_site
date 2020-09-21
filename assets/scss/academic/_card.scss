@@ -8,7 +8,7 @@
   border: 1px solid rgba(0,0,0,.09);
   border-radius: 3px;
   margin-top: 20px;
-  padding: 50px 50px 50px 50px;
+  padding: 15px 20px 15px 20px;
 }
 
 .card-simple:first-of-type {
@@ -43,15 +43,14 @@ a.summary-link {
 .card .card-image {
   display: block;
   position: relative;
-  min-width: 150px;
-  object-fit: cover;
-}
+  min-height: 100px;
+  }
 
 .card h4 {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.5;
-
+  text-transform: uppercase;
 }
 
 .card h4 a {

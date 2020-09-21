@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "F0455289",
-    "lastKnownWriteTime" : 1598630746,
-    "last_content_update" : 1598630746,
+    "lastKnownWriteTime" : 1600648514,
+    "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/assets/scss/academic/_widgets.scss",
     "project_path" : "assets/scss/academic/_widgets.scss",
     "properties" : {
-        "cursorPosition" : "496,1",
-        "scrollLine" : "486"
+        "cursorPosition" : "478,0",
+        "scrollLine" : "472"
     },
     "relative_order" : 5,
     "source_on_save" : false,
