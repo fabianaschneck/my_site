@@ -426,7 +426,7 @@ ul.ul-edu li .description p.institution {
 }
 
 .project-widget-simple .project-title {
-  font-size: 1.0rem;
+  font-size: 0.8rem;
   margin-bottom: 6px;
 }
 
@@ -475,7 +475,7 @@ ul.ul-edu li .description p.institution {
 
 .project-showcase .project-item {
   margin-bottom: 3rem;
-  font-size: 1.0rem;
+  font-size: 0.8rem;
 
 }
 
