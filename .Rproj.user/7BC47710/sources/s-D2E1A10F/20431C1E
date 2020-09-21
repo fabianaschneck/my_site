@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1828799928",
+    "hash" : "0",
     "id" : "20431C1E",
-    "lastKnownWriteTime" : 1600645881,
+    "lastKnownWriteTime" : 1600646445,
     "last_content_update" : -2147483648,
     "path" : "~/GitHub/my_site/assets/scss/academic/_card.scss",
     "project_path" : "assets/scss/academic/_card.scss",
     "properties" : {
-        "cursorPosition" : "45,20",
-        "scrollLine" : "41"
+        "cursorPosition" : "51,13",
+        "scrollLine" : "39"
     },
     "relative_order" : 5,
     "source_on_save" : false,
