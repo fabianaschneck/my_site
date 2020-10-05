@@ -59,4 +59,4 @@ user_groups:
 <br>
 <br>
 <br>
-Natalia é estudante de graduação em Ciências Biológicas da FURG. Ela está trabalhando em um projeto que investiga partição de recursos em insetos de ambientes lóticos e recebe bolsa de iniciação científica da [Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul](https://fapergs.rs.gov.br/inicial/).
+Natalia é estudante de graduação em Ciências Biológicas da FURG. Ela está trabalhando em um projeto que investiga partição de recursos em insetos de ambientes lóticos e recebe bolsa de iniciação científica da Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - FAPERGS.
