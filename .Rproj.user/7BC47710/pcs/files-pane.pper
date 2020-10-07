@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/my_site/content/pt/project/impacts",
-    "sortOrder" : [
+    "path": "~/GitHub/my_site/content/pt/authors",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
