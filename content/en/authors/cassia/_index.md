@@ -23,6 +23,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: SSSSS
 
+interests:
+- Freshwater diatoms
+- Community ecology
+- Ecosystem services
+- Anthropic impacts on aquatic environments
+- GIS tools and programming (R and Python)
+- Computational modeling
+
+education:
+  courses:
+  - course: MSc in Biology of Continental Aquatic Environments
+    institution: Universidade Federal do Rio Grande, BR
+    year: 2018
+  - course: BSc in Ecology
+    institution: Universidade Federal de Goiás, BR
+    year: 2016
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -56,4 +73,10 @@ email: ""
 user_groups:
 - ""
 ---
-Cassia has a degree in Ecology and Environmental Analysis (Universidade Federal de Goiás, 2016) and a master's degree in Biology of Continental Aquatic Environments (FURG, 2018). She is currently a PhD student in Biology of Continental Aquatic Environments and is working with ecosystem services in the Pampa biome, evaluating how the conversion of natural grasslands to monocultures affects the supply of services.
+
+I have a degree in Ecology and Environmental Analysis and currently I am a PhD candidate in Biology of Continental Aquatic Environments (FURG), where I also completed my master's degree under the supervision of Fabiana.  
+
+My experience in Freshwater Ecology began in 2011 during my undergraduate studies at Universidade Federal de Goiás where I worked with Dr. Sirlene Aparecida Felisberto and Dr. Priscilla de Carvalho investigating the ecology of periphytic algal communities. During my master’s degree, I investigated the effects of increased temperature and runoff on periphytic diatoms. 
+
+During my PhD I'm supervised by [Dr. Luiz Ubiratan Hepp](https://www.researchgate.net/profile/Luiz_Hepp) and co-supervised by Fabiana, and my research aims to evaluate the impacts of land use and land cover on periphytic diatom communities and ecosystem services at different spatial scales in Pampe biome.
+

@@ -29,9 +29,9 @@ padding = ["40px", "0", "20px", "0"]
 
 <font size="4"><span style="color:#607CA0">**Welcome! We are the Stream Team at FURG, southernmost Brazil**</span></font> 
 
-<font size="4">Our research is focused on understanding <span style="color:#607CA0">**spatial and temporal patterns of freshwater biodiversity**</span> and underlying  <span style="color:#607CA0">**processes that determine the composition of biological communities**</span>, in both natural and anthropogenic landscapes.</font> 
+<font size="4">We are mainly interested in understanding <span style="color:#607CA0">**spatial and temporal patterns of freshwater biodiversity**</span> and underlying  <span style="color:#607CA0">**processes that determine the composition of biological communities**</span>, in both natural and anthropogenic landscapes.</font> 
 
-Our studies are carried out mainly in<font size="4"><span style="color:#607CA0"> **subtropical streams**</span> and, commonly, we use benthic diatoms as a biological model to describe diversity patterns and test ecological hypotheses. Our studies also encompass stream insects, phytoplankton and macrophytes in lentic environments and mesocosm experiments.</font> 
+Our research is focused in<font size="4"><span style="color:#607CA0"> **subtropical streams**</span> and, commonly, we use benthic diatom communities as a biological model to describe diversity patterns and test ecological hypotheses. Our studies also encompass stream insects, phytoplankton and macrophytes in lentic environments and mesocosm experiments.</font> 
 
 {{< figure = "true" src="/media/Logo_Lab_web.png" >}}
 

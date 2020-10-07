@@ -24,6 +24,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: SSSSS
 
+interests:
+- Diatomáceas
+- Ecologia de comunidades
+- Serviços ecossistêmicos
+- Impactos antrópicos em ecossistemas aquáticos
+- Ferramentas SIG e programação (R e Python)
+- Modelagem computacional
+
+education:
+  courses:
+  - course: Mestrado em Biologia de Ambientes Aquáticos Continentais
+    institution: Universidade Federal do Rio Grande, BR
+    year: 2018
+  - course: Bacharelado em Ecologia
+    institution: Universidade Federal de Goiás, BR
+    year: 2016
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -59,6 +76,8 @@ user_groups:
 
 ---
 
-Possui graduação em Ecologia e Análise Ambiental pela Universidade Federal de Goiás (2016) e mestrado em Biologia de Ambientes Aquáticos Continentais pela Universidade Federal do Rio Grande (2018). Atualmente é doutoranda em Biologia de Ambientes Aquáticos Continentais. Tem experiência na área de Ecologia, com ênfase em Ecologia de Comunidades e Ecologia de Algas Continentais, atuando principalmente nos seguintes temas: Ecologia de Comunidades de Microalgas Continentais, Ecologia de Diatomáceas Perifíticas; além de apresentar conhecimento básico em Taxonomia de Microalgas Continentais, Biomonitoramento de Ambientes Aquáticos Continentais, Programação em Ambiente R e Análises da Paisagem através do uso de ferramentas SIG.
+Sou formada em Ecologia e Análise Ambiental (UFG) e atualmente sou doutoranda em Biologia de Ambientes Aquáticos Continentais (FURG), onde também concluí meu mestrado sob orientação da Fabiana.
 
-No doutorado vem trabalhando com serviços ecossitêmicos no bioma Pampa e avaliando como a conversão de campos naturais em monoculturas afeta a oferta de serviços.
+Minha experiência em Ecologia Aquática começou em 2011 durante minha graduação na Universidade Federal de Goiás, onde trabalhei com a Dra. Sirlene Aparecida Felisberto e a Dra. Priscilla de Carvalho investigando a ecologia de comunidades de algas perifíticas. Durante meu mestrado, investiguei os efeitos do aumento da temperatura e do escoamento superficial na riqueza de espécies composição de comunidades de diatomáceas perifíticas.
+
+No doutorado estou sendo orientada pelo [Dr. Luiz Ubiratan Hepp](https://www.researchgate.net/profile/Luiz_Hepp) e co-orientada pela Fabiana, e minha pesquisa visa avaliar os impactos do uso e cobertura da terra nas comunidades de diatomáceas perifíticas e em serviços ecossistêmicos em diferentes escalas espaciais no bioma Pampa.

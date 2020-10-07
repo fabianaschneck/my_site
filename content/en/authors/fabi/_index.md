@@ -4,7 +4,7 @@ title: Fabiana Schneck
 
 # Username (this should match the folder name)
 authors:
-- admin
+- fabi
 
 # Position of each person in page
 weight: 1
