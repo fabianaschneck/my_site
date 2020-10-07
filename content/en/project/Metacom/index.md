@@ -3,7 +3,7 @@ title: Spatial and temporal patterns of freshwater biodiversity
 summary: " "
 date: "2020-09-20"
 
-authors: [""]
+
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
