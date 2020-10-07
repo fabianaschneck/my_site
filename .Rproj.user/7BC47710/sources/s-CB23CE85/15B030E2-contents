@@ -13,7 +13,7 @@ superuser: false
 weight: 6
 
 # Role/position
-role: Mestranda PPGBAC 
+role: Master's student 
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,5 @@ user_groups:
 - ""
 
 ---
-Sou bióloga formada pela FURG e aluna de Mestrado em Biologia de Ambientes Aquáticos Continentais da FURG. Sou orientada pela professora Fabiana e co-orientada pela professora [Camila de Martinez Gaspar Martins](https://www.researchgate.net/profile/Camila_Martins3). 
-Em minha pesquisa estudo os efeitos da contaminação dos ambientes aquáticos por glifosato sobre comunidades fitoplanctônicas, avaliando respostas quanto à riqueza de espécies, diversidade beta e também testando a hipótese de resgate evolutivo.
-
+I am a biologist graduated by FURG and currently I'm a Master's student in Biology of Continental Aquatic Environments. I am supervised by Fabiana and co-supervised by Dra. [Camila de Martinez Gaspar Martins](https://www.researchgate.net/profile/Camila_Martins3).
+My research focus on understanding the contamination of freshwaters by glyphosate affects on phytoplankton communities, evaluating changes in species richness and beta diversity and also testing the hypothesis of evolutionary rescue.
