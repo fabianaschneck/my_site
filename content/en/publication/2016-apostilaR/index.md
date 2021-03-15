@@ -1,7 +1,6 @@
 ---
-title: Apostila: Introdução à linguagem R e aplicações em Ecologia [in Portuguese]
+title: "Apostila: Introdução à linguagem R e aplicações em Ecologia [in Portuguese]"
 authors: ["admin"]
-
 
 
 date: "2016-06-01T00:00:00Z"
@@ -25,7 +24,7 @@ publication_short: ""
 #links:
 #- name: ""
 #   url: ""
-url_pdf: "Apostila_Introducao_ao_R_v5.pdf"
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
