@@ -13,17 +13,17 @@ date: "2016-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 
 #tags:
 #- Source Themes
 #featured: false
 
-links:
-- name: ""
-   url: ""
+#links:
+#- name: ""
+#   url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
