@@ -1,5 +1,5 @@
 ---
-title: "Apostila: Introdução à linguagem R e aplicações em Ecologia"
+title: "Apostila: Introdução à linguagem R e aplicações em Ecologia [in Portuguese]"
 authors: ["admin"]
 
 date: "2016-01-01T00:00:00Z"
@@ -13,10 +13,10 @@ date: "2016-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
-
+abstract: "PDF and datasets used as exemplas are available for download here. Introduction to R and aplications in Ecology"
 #tags:
 #- Source Themes
 #featured: false
@@ -26,7 +26,7 @@ publication_short: ""
 #   url: ""
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'Dados.rar'
 url_poster: ''
 url_project: ''
 url_slides: ''

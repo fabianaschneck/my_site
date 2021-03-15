@@ -16,7 +16,7 @@ publication_types: ["0"]
 #publication: ""
 #publication_short: ""
 
-abstract: "Apostila disponível para download aqui"
+abstract: "Apostila e conjuntos de dados utilizados estão disponíveis para download aqui"
 
 #tags:
 #- Source Themes
@@ -27,7 +27,7 @@ abstract: "Apostila disponível para download aqui"
 #   url: ""
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'Dados.rar'
 url_poster: ''
 url_project: ''
 url_slides: ''

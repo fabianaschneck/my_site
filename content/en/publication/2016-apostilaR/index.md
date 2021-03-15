@@ -16,7 +16,7 @@ publication_types: ["0"]
 #publication: ""
 #publication_short: ""
 
-abstract: "PDF available for download. Introduction to R and aplications in Ecology"
+abstract: "PDF and datasets used as exemplas are available for download here. Introduction to R and aplications in Ecology"
 #tags:
 #- Source Themes
 #featured: false
