@@ -18,7 +18,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-  url: "https://www.furg.br/"
+  url: "https://ppgbac.furg.br/"
   
 
 # Short bio (displayed in user profile at end of posts)

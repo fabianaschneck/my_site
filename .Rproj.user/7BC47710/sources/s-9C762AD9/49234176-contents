@@ -18,7 +18,7 @@ role: Doutorando PPGBAC
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-  url: "https://www.furg.br/"
+  url: "https://ppgbac.furg.br/"
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -53,4 +53,4 @@ email: ""
 user_groups:
 - ""
 ---
-Sou Biólogo e Mestre Biologia de Ambientes Aquáticos Continentais (2008) pela Universidade Federal do Rio Grande - FURG. Em 2010, ingressei na FURG como funcionário público (Técnico Administrativo em Educação) no Laboratório de Limnologia. Participo ativamente das atividades de pesquisa, além de realizar análises químicas e físicas em laboratório e trabalhos de campo. Em 2021 iniciei o doutorado em Biologia de Ambientes Aquáticos Continentais. Estou interessado na distribuição espacial das espécies, especialmente metacomunidades de macrófitas aquáticas. Amo andar de bicicleta, viajar, beber vinho e poesia. Moro em uma fazenda e meu sonho é plantar uma floresta.
+Sou Biólogo e Mestre em Biologia de Ambientes Aquáticos Continentais (2008) pela Universidade Federal do Rio Grande - FURG. Em 2010, ingressei na FURG como funcionário público (Técnico Administrativo em Educação) no Laboratório de Limnologia. Participo ativamente das atividades de pesquisa, além de realizar análises químicas e físicas em laboratório e trabalhos de campo. Em 2021 iniciei o doutorado em Biologia de Ambientes Aquáticos Continentais. Estou interessado na distribuição espacial das espécies, especialmente metacomunidades de macrófitas aquáticas. Amo andar de bicicleta, viajar, beber vinho e poesia. Moro em uma fazenda e meu sonho é plantar uma floresta.
