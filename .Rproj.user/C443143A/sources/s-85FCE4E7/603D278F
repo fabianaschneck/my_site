@@ -1,26 +1,24 @@
 {
-    "id": "C191A4C8",
-    "path": "~/GitHub/my_site/config/_default/params.toml",
-    "project_path": "config/_default/params.toml",
+    "id": "603D278F",
+    "path": "~/GitHub/my_site/config.toml",
+    "project_path": "config.toml",
     "type": "toml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1629763194688.0,
+    "created": 1629763682218.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "122,0",
-        "scrollLine": "100"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1629763222,
+    "lastKnownWriteTime": 1598630725,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1629763222843,
+    "last_content_update": 1598630725,
     "read_only": false,
     "read_only_alternatives": []
 }
