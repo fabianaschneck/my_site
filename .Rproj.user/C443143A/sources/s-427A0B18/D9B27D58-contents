@@ -1,28 +1,34 @@
 ---
 # Display name
-title: Juliana Pereira Reis
+title: Emanuela de Castro
 
 # Username (this should match the folder name)
 authors:
-- juliana
+- manu
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
+
 
 # Position of each person in page
-weight: 9
+weight: 4
 
 # Role/position
-role: BSc in Biological Sciences (2022)
+role: Doutorado PPGBAC (2016-2021)
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-#url: "https://www.furg.br/"
- 
+#  url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio:
+#bio: SSSSS
+
+interests:
+- Diversidade beta
+- Diversidade funcional 
+- Diatomáceas 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,11 +37,16 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:reizjuliana@gmail.com"
-
-#- icon: lattes
+  link: "mailto:decastro.emanuela@gmail.com"
+#- icon: orcid
 #icon_pack: ai
-#  link: http://lattes.cnpq.br/2644553084600724
+#link: ""
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Emanuela_Castro_Honorio
+#- icon: lattes
+#  icon_pack: ai
+#  link: http://lattes.cnpq.br/5154352079713325
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -49,7 +60,5 @@ user_groups:
 <br>
 <br>
 <br>
-
-Title: Morphological changes in periphytic diatoms along a eutrophication gradient in coastal streams 
-
+Título da Tese: Metacomunidades em riachos subtropicais preservados: singularidade ecológica e esforço de amostragem
 
