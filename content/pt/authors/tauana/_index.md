@@ -26,8 +26,8 @@ interests:
 
 #education:
 #  courses:
-##  - course: Bacharelado em Ciência Biológicas
-    institution: Universidade de Passo Fundo, BR
+#  - course: Bacharelado em Ciência Biológicas
+#    institution: Universidade de Passo Fundo, BR
 #    year: 2019
 
 
