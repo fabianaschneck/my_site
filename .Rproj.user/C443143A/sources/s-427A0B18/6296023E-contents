@@ -9,20 +9,21 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
 # Position of each person in page
 weight: 1
 
 interests:
-- Ecological niche modelling
-- Aquatic macrophytes
-- Botany
+- Modelagem de nicho ecológico
+- Macrófitas aquáticas
+- Botânica
 
 # Role/position
-role: Master's student (2019-2022)
+role: Mestrado PPGBAC (2019-2022)
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal do Rio Grande - FURG
+- name: PPG em Biologia de Ambientes Aquáticos Continentais, Universidade Federal do Rio Grande - FURG
 #url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,22 +47,23 @@ social:
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-0018-444X
 #- icon: researcherid
-# icon_pack: ai
+ # icon_pack: ai
 #  link: 
-#- icon: lattes
-#  icon_pack: ai
-#  link: http://lattes.cnpq.br/1866576921233841
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/1866576921233841
+#- icon: github
+ # icon_pack: fab
+#  link: https://github.com/fabianaschneck
 
-
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - "Alumni"
----
-<br>
-<br>
-<br>
-Dissertation title: Potential distribution of Podostemaceae species in face of climate change
 
-#I have a degree in Biology and currently I'm a Master's student at the Graduate Program in #Biology of Continental Aquatic Environments, supervised by Fabiana and co-supervised by #[Fabiana Barbosa](https://www.researchgate.net/profile/Fabiana_Barbosa4). I am working with #ecological niche modeling in order to assess how future climate change scenarios may affect #the potential distribution of Podostemaceae, a family of aquatic plants, in the Prata, #South Atlantic and Southeast Atlantic basins.
+---
+Título da dissertação: Distribuição potencial de espécies de Podostemaceae frente às mudanças climáticas  
+
