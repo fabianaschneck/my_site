@@ -1,10 +1,9 @@
 ---
 # Display name
-title: Maria Gabrielle Maciel
+title: Isabella Pinzon
 
 # Username (this should match the folder name)
-authors:
-- gabrielle
+authors:isabella
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,12 +24,12 @@ organizations:
 
 education:
   courses:
-  - course: MSc. in Botany
-    institution: Universidade Federal do Paraná, BR
+  - course: MSc. in Ecology
+    institution: Universidade Federal do Rio Grande do Sul, BR
     year: 2021
-  - course: Lic. in Biology
-    institution: Universidade Estadual do Vale do Acaraú, BR
-    year: 2018
+  - course: Bach. in Biology
+    institution: Universidade Estadual do Rio Grande do Sul, BR
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gabrielle.r.maciel@gmail.com"
+  link: "mailto:"bellamp@gmail.com"
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-8594-2990
+  link: 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Maria-Gabrielle-Maciel-2
+  link: 
 - icon: lattes
   icon_pack: ai
-  link: https://lattes.cnpq.br/1625993611169047
+  link: http://lattes.cnpq.br/5275203332662909
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -60,6 +59,9 @@ user_groups:
 - ""
 
 ---
-My first contact with taxonomy of freshwater diatoms occurred when I was an undergrad. During my Masters in Botany, I focused on the taxonomy of diatoms from northwest Ceará, under the supervision of Prof. Dr. Thelma Ludwig and co-supervision of Prof. Dr. Kaoli Cavalcante.
+I am a Bachelor in Biological Sciences with emphasis on Marine and Coastal Environmental
+Management. My interest in aquatic ecology and limnology, and especially in algae and their role in the functioning of aquatic ecosystems began as an undergrad.
+I did my Masters in Ecology at UFRGS analyzing how size variation in periphytic algae  influences the spatial and environmental structure of metacommunities in shalow coastal lakes.
 
-Currently, as a PhD student at PPGBAC, I intend to analyze the effects of multiple stressors on periphytic algal communities, as part of the ExStream Brazil experiment, coordinated by Prof. Dr. Ricardo Taniwaki (UFABC), my co-supervisor.
+Currently, as a PhD student at PPGBAC-FURG, I intend to investigate delayed responses of
+benthic diatom communities to habitat change in streams of the Pampa Biome.
