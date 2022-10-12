@@ -1,34 +1,32 @@
 ---
 # Display name
-title: Emanuela de Castro
+title: Celomar Severo Sena 
 
 # Username (this should match the folder name)
 authors:
-- manu
+- celomar
 
 # Is this the primary user of the site?
-superuser: true
-
+superuser: false
 
 # Position of each person in page
-weight: 4
+weight: 9
+
+interests:
+- Ecological niche modelling
+- Aquatic macrophytes
+- Botany
 
 # Role/position
-role: Doutorado PPGBAC (2016-2021)
+role: Master's student (2019-2022)
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-#  url: "https://ppgbac.furg.br/"
+#url: "https://ppgbac.furg.br/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: SSSSS
-
-interests:
-- Diversidade beta
-- Diversidade funcional 
-- Diatomáceas 
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,20 +35,24 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:decastro.emanuela@gmail.com"
-#- icon: orcid
-#icon_pack: ai
-#link: ""
-#- icon: researchgate
+  link: "mailto:celomarssena1994@gmail.com"
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/FabianaSchneck
+#- icon: google-scholar
 #  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Emanuela_Castro_Honorio
+#  link: https://scholar.google.com.br/citations?user=WgdQd3gAAAAJ&hl
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-0018-444X
+#- icon: researcherid
+# icon_pack: ai
+#  link: 
 #- icon: lattes
 #  icon_pack: ai
-#  link: http://lattes.cnpq.br/5154352079713325
+#  link: http://lattes.cnpq.br/1866576921233841
 
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -60,6 +62,6 @@ user_groups:
 <br>
 <br>
 <br>
-Título da Tese: Metacomunidades em riachos subtropicais preservados: singularidade ecológica e esforço de amostragem
+Dissertation title: Potential distribution of Podostemaceae species in face of climate change
 
-[Acesse aqui a tese](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/82210c40e35c783b892882b0c55fb994.pdf)
+[Document available here](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7328b3e424641e0c1fbd9270c6cc38c3.pdf)

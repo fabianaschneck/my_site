@@ -1,33 +1,34 @@
 ---
 # Display name
-title: Emanuela de Castro
-
+title: Tauana Mores
 # Username (this should match the folder name)
 authors:
-- manu
+- tauana
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 
 # Position of each person in page
-weight: 4
+weight: 8
 
 # Role/position
-role: Doutorado PPGBAC (2016-2021)
+role: Mestrado PPGBAC (2019-2021)
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
 #  url: "https://ppgbac.furg.br/"
 
-# Short bio (displayed in user profile at end of posts)
-#bio: SSSSS
-
 interests:
-- Diversidade beta
-- Diversidade funcional 
-- Diatomáceas 
+- Ecologia de comunidades
+- Invertebrados aquáticos
+
+#education:
+#  courses:
+#  - course: Bacharelado em Ciência Biológicas
+#    institution: Universidade de Passo Fundo, BR
+#    year: 2019
 
 
 # Social/Academic Networking
@@ -37,20 +38,17 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:decastro.emanuela@gmail.com"
+  link: "mailto:tau_mores@hotmail.com"
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/TauanaMores
 #- icon: orcid
-#icon_pack: ai
-#link: ""
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Emanuela_Castro_Honorio
+ # icon_pack: ai
+  #link: https://orcid.org/0000-0003-1938-1299
 #- icon: lattes
-#  icon_pack: ai
-#  link: http://lattes.cnpq.br/5154352079713325
+ # icon_pack: ai
+#  link: http://lattes.cnpq.br/4159427515159222
 
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -60,6 +58,6 @@ user_groups:
 <br>
 <br>
 <br>
-Título da Tese: Metacomunidades em riachos subtropicais preservados: singularidade ecológica e esforço de amostragem
+Título da Dissertação: Partição de recursos: invertebrados selecionam diatomáceas perifíticas do biofilme?
 
-[Acesse aqui a tese](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/82210c40e35c783b892882b0c55fb994.pdf)
+[Acesse aqui a dissertação completa](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7127c74ffacd2d769b71ca45fe74ac56.pdf)
