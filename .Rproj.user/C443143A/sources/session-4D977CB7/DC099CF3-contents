@@ -1,3 +1,4 @@
+active = false 
 ---
 # Display name
 title: Mayara Lima
@@ -8,7 +9,6 @@ authors:
 
 # Position of each person in page
 weight: 11
-active = false
 
 # Is this the primary user of the site?
 superuser: false
