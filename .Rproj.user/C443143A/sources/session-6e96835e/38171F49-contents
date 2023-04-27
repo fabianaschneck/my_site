@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Tauana Mores
+title: Juliana Pereira Reis
+
 # Username (this should match the folder name)
 authors:
-- tauana
+- juliana
 
 # Is this the primary user of the site?
 superuser: false
+
 
 # Position of each person in page
 weight: 9
 
 # Role/position
-role: Master's student (2019-2021)
+role: Bacharel em Ciências Biológicas (2022) 
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal do Rio Grande - FURG
-#  url: "https://ppgbac.furg.br/"
+#url: "https://www.furg.br/"
+ 
 
-interests:
-- Community ecology
-- Aquatic invertebrates
-
-
+# Short bio (displayed in user profile at end of posts)
+#bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,17 +32,15 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:tau_mores@hotmail.com"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/TauanaMores
-#- icon: orcid
-# icon_pack: ai
-  #link: https://orcid.org/0000-0003-1938-1299
+  link: "mailto:reizjuliana@gmail.com"
+
 #- icon: lattes
 #  icon_pack: ai
-#  link: http://lattes.cnpq.br/4159427515159222
+#  link: http://lattes.cnpq.br/2644553084600724
 
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -52,6 +50,6 @@ user_groups:
 <br>
 <br>
 <br>
-Dissertation title: Does invertebrates select periphytic diatoms from the biofilm?
+Título do Trabalho de Conclusão de Curso: Alterações morfológicas em diatomáceas perifíticas ao longo de um gradiente de eutrofização em riachos costeiros
 
-[Available here](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7127c74ffacd2d769b71ca45fe74ac56.pdf)
+

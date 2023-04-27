@@ -8,11 +8,12 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
 # Position of each person in page
-weight: 9
+weight: 8
 
 # Role/position
-role: Master's student (2019-2021)
+role: Mestrado PPGBAC (2019-2021)
 
 # Organizations/Affiliations
 organizations:
@@ -20,9 +21,14 @@ organizations:
 #  url: "https://ppgbac.furg.br/"
 
 interests:
-- Community ecology
-- Aquatic invertebrates
+- Ecologia de comunidades
+- Invertebrados aquáticos
 
+#education:
+#  courses:
+#  - course: Bacharelado em Ciência Biológicas
+#    institution: Universidade de Passo Fundo, BR
+#    year: 2019
 
 
 # Social/Academic Networking
@@ -37,10 +43,10 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/TauanaMores
 #- icon: orcid
-# icon_pack: ai
+ # icon_pack: ai
   #link: https://orcid.org/0000-0003-1938-1299
 #- icon: lattes
-#  icon_pack: ai
+ # icon_pack: ai
 #  link: http://lattes.cnpq.br/4159427515159222
 
 
@@ -52,6 +58,6 @@ user_groups:
 <br>
 <br>
 <br>
-Dissertation title: Does invertebrates select periphytic diatoms from the biofilm?
+Título da Dissertação: Partição de recursos: invertebrados selecionam diatomáceas perifíticas do biofilme?
 
-[Available here](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7127c74ffacd2d769b71ca45fe74ac56.pdf)
+[Disponível aqui](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7127c74ffacd2d769b71ca45fe74ac56.pdf)
