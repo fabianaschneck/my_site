@@ -3,7 +3,7 @@
     "path": "~/GitHub/my_site/content/en/authors/julia/_index.md",
     "project_path": "content/en/authors/julia/_index.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "783522804",
     "contents": "",
     "dirty": false,
     "created": 1682602538825.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,7",
+        "cursorPosition": "15,23",
         "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1682602143,
+    "lastKnownWriteTime": 1682602956,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1682602143,
+    "last_content_update": 1682602956880,
     "read_only": false,
     "read_only_alternatives": []
 }

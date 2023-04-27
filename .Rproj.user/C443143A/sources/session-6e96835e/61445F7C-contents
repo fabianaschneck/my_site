@@ -13,7 +13,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Estudante de Biologia 
+role: Biology's student
 
 # Organizations/Affiliations
 organizations:
