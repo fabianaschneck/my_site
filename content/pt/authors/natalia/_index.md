@@ -14,7 +14,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Estudante de Biologia 
+role: Bacharel em Ciências Biológicas (2023)
 
 # Organizations/Affiliations
 organizations:
@@ -53,10 +53,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ""
+- "Alunmi"
 
 ---
 <br>
 <br>
 <br>
-Natalia é estudante de graduação em Ciências Biológicas da FURG. Ela está trabalhando em um projeto que investiga partição de recursos em insetos de ambientes lóticos e recebe bolsa de iniciação científica da Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - FAPERGS.
+Título do Trabalho de Conclusão de Curso: Efeitos de lixiviado de cigarros sobre comunidades fitoplanctônicas em microcosmos

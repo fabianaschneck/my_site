@@ -13,7 +13,7 @@ superuser: false
 weight: 7
 
 # Role/position
-role: Master's student 
+role: Master's student (2020-2023)
 
 # Organizations/Affiliations
 organizations:
@@ -42,8 +42,12 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ""
+- "Alumni"
 
 ---
-I am a biologist graduated by FURG and currently I'm a Master's student in Biology of Continental Aquatic Environments. I am supervised by Fabiana and co-supervised by [Camila de Martinez Gaspar Martins](https://www.researchgate.net/profile/Camila_Martins3).
-My research focus on understanding how the contamination of freshwaters by glyphosate affects phytoplankton communities, evaluating changes in species richness and beta diversity and also testing the hypothesis of evolutionary rescue.
+<br>
+<br>
+<br>
+Dissertation title: Population rescue of microalgae from glyphosate contamination
+
+[Available here](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/4d3b2f93012364cd0092cdc6bfd23b78.pdf)

@@ -13,7 +13,7 @@ superuser: false
 weight: 10
 
 # Role/position
-role: Biology's student 
+role: BSc. in Biological Sciences (2023) 
 
 # Organizations/Affiliations
 organizations:
@@ -52,10 +52,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ""
+- "Alumni"
 
 ---
 <br>
 <br>
 <br>
-Natalia is a second-year undergrad student. She is working in a project investigating resource partition among grazers in lotic environments. She receives a research scholarship from Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - FAPERGS.
+Title: Effects of cigarette leachate on phytoplankton communities in microcosms
